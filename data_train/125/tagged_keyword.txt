@@ -1,0 +1,5 @@
+indeks/NN harga/NN saham/NN gabungan/NN ./.
+the/FW fed/NNP rate/NN ./.
+indeks/NN dow/NNP jones/NNP ./.
+indeks/NN nikkei/NN 225/CDP dan/CC indeks/NN hang/NNP seng/NNP
+

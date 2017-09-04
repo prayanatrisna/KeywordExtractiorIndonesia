@@ -1,0 +1,4 @@
+kualitas/NN pelayanan/NN ./.
+sistem/NN elektronik/NN perpajakan/NN ./.
+kompetensi/NN pegawai/NN
+

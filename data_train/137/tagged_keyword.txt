@@ -1,0 +1,5 @@
+budaya/NN organisasi/NN ./.
+stress/NN kerja/NN ./.
+kepuasan/NN kerja/NN ./.
+kinerja/NN pegawai/NN
+

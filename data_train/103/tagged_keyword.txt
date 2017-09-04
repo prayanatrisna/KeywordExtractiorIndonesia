@@ -1,0 +1,4 @@
+akuntabilitas/NN ./.
+transparansi/NN ./.
+kinerja/NN anggaran/NN
+

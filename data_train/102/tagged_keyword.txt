@@ -1,0 +1,6 @@
+kinerja/NN ./.
+value/NN for/NN money/NN ./.
+ekonomi/NN ./.
+efisiensi/NN ./.
+efektivitas/NN
+

@@ -1,0 +1,5 @@
+mea/NN ./.
+umkm/NN ./.
+peran/NN mahasiswa/NN akuntansi/NN ./.
+kkn/NN
+

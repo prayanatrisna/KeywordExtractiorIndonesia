@@ -1,0 +1,4 @@
+audit/NN delay/NN ./.
+leverage/NN ./.
+ukuran/NN perusahaan/NN
+

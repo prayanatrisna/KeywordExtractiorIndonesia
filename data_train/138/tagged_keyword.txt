@@ -1,0 +1,5 @@
+gaya/NN kepemimpinan/NN transformasional/NN ./.
+budaya/NN organisasi/NN ./.
+motivasi/NN kerja/NN ./.
+kinerja/NN lpd/NN
+

@@ -1,0 +1,6 @@
+idealisme/NN ./.
+relativisme/NN ./.
+love/FW of/FW money/NNP ./.
+skandal/NN akuntansi/NN ./.
+persepsi/NN
+

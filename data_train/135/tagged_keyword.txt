@@ -1,0 +1,6 @@
+kepatuhan/NN ./.
+behavioural/NN model/NNP benchmarking/NNP ./.
+rasio/NN keuangan/NN ./.
+kinerja/NN keuangan/NN ./.
+pembayaran/NN pajak/NN penghasilan/NN badan/NNP
+

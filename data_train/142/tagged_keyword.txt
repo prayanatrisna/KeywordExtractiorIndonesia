@@ -1,0 +1,4 @@
+penghindaran/NN pajak/NN ./.
+corporate/NN governance/NN ./.
+leverage/NN
+

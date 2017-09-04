@@ -1,0 +1,3 @@
+jumlah/NN penduduk/NN ./.
+kesejahteraan/NN masyarakat/NN
+

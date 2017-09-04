@@ -1,0 +1,6 @@
+pengungkapan/NN informasi/NN lingkungan/NN ./.
+ukuran/NN perusahaan/NN ./.
+profitabilitas/NN ./.
+umur/NN perusahaan/NN ./.
+proper/NN
+

@@ -1,0 +1,5 @@
+tekanan/NN ketaatan/NN ./.
+pengalaman/NN auditor/NN ./.
+skeptisme/NN profesional/JJ ./.
+audit/NN judgment/NN
+

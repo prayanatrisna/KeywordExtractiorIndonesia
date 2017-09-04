@@ -1,0 +1,5 @@
+program/NN pelatihan/NN dan/CC pendidikan/NN ./.
+pengalaman/NN kerja/NN personal/JJ ./.
+partisipasi/NN manajemen/NN ./.
+efektivitas/NN penggunaan/NN sistem/NN informasi/NN akuntansi/NN
+

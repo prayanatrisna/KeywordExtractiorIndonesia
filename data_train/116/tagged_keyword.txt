@@ -1,0 +1,4 @@
+partisipasi/NN penganggaran/NN ./.
+kesenjangan/NN anggaran/NN ./.
+karakter/NN personal/JJ
+

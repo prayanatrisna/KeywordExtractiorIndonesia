@@ -1,0 +1,5 @@
+administrasi/NN perpajakan/NN ./.
+kesadaran/NN ./.
+kepatuhan/NN ./.
+wajib/NN pajak/NN
+

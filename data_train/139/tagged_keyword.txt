@@ -1,0 +1,4 @@
+perencanaan/NN pajak/NN ./.
+transparansi/NN perusahaan/NN ./.
+nilai/NN perusahaan/NN
+

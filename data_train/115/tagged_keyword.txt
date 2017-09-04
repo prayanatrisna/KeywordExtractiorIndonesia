@@ -1,0 +1,6 @@
+kompetensi/NN ./.
+due/NN professional/NN care/NN ./.
+pengalaman/NN kerja/NN ./.
+besaran/NN fee/NN ./.
+kualitas/NN audit/NN
+

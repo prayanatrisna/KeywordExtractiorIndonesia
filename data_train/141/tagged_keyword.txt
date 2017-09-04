@@ -1,0 +1,6 @@
+kinerja/NN anggaran/NN ./.
+value/NN for/NN money/NN ./.
+akuntabilitas/NN ./.
+transparansi/NN ./.
+partisipasi/NN anggaran/NN
+

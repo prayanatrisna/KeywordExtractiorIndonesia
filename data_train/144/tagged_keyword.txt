@@ -1,0 +1,5 @@
+partisipasi/NN penyusunan/NN anggaran/NN ./.
+budgetary/NN slack/NN ./.
+komitmen/NN organisasi/NN ./.
+etika/NN
+

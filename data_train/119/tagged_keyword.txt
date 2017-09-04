@@ -1,0 +1,4 @@
+profitabilitas/NN ./.
+solvabilitas/NN ./.
+ukuran/NN perusahaan/NN
+

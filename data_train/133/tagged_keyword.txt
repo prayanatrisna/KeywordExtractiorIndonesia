@@ -1,0 +1,5 @@
+gaya/NN kepemimpinan/NN demokratis/JJ ./.
+asimetri/NN informasi/NN ./.
+budaya/NN organisasi/NN ./.
+senjangan/NN anggaran/NN
+

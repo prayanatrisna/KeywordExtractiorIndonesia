@@ -1,0 +1,6 @@
+kesadaran/NN wajib/VBI pajak/NN ./.
+kewajiban/NN moral/NN ./.
+pengetahuan/NN pajak/NN ./.
+persepsi/NN tentang/IN sanksi/NN perpajakan/NN ./.
+kepatuhan/NN wajib/VBI pajak/NN
+

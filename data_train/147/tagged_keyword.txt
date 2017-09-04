@@ -1,0 +1,3 @@
+pertumbuhan/NN wajib/NN pajak/NN ./.
+pertumbuhan/NN penerimaan/NN pph/NNP pasal/NN 4/CDP ayat/NN (/OP 2/CDP )/CP
+

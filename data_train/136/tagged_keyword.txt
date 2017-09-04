@@ -1,0 +1,4 @@
+utaut2/NN ./.
+minat/NN penggunaan/NN mobile/NN banking/NN ./.
+perilaku/NN penggunaan/NN mobile/NN banking/NN
+

@@ -1,0 +1,5 @@
+akuntabilitas/NN ./.
+kejelasan/NN sasaran/NN anggaran/NN ./.
+partisipasi/NN anggaran/NN ./.
+kinerja/NN manajerial/JJ
+

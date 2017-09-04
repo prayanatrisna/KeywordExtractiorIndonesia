@@ -1,0 +1,4 @@
+pengendalian/NN internal/NN ./.
+moralitas/NN individu/NN ./.
+kecenderungan/NN kecurangan/NN akuntansi/NN
+

@@ -1,0 +1,4 @@
+kewajiban/NN moral/NN ./.
+kualitas/NN pelayanan/NN ./.
+sanksi/NN perpajakan/NN
+

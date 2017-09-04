@@ -1,0 +1,5 @@
+kompleksitas/NN tugas/NN ./.
+independensi/NN ./.
+komitmen/NN profesional/JJ ./.
+kualitas/NN audit/NN
+

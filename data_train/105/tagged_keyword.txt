@@ -1,0 +1,5 @@
+eps/NNP ./.
+per/NN ./.
+bvs/NNP ./.
+harga/NN saham/NN
+

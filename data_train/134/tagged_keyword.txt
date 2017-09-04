@@ -1,0 +1,4 @@
+kecukupan/NN anggaran/NN ./.
+partisipasi/NN anggaran/NN ./.
+senjangan/NN anggaran/NN
+

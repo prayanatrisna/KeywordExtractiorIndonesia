@@ -1,0 +1,5 @@
+gaya/NN kepemimpinan/NN ./.
+komitmen/NN organisasi/NN ./.
+pemahaman/NN sistem/NN informasi/NN akuntansi/NN ./.
+kinerja/NN auditor/NN
+

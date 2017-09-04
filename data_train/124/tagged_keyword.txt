@@ -1,0 +1,5 @@
+asimetri/NN informasi/NN ./.
+kepemilikan/NN manajerial/JJ ./.
+kepemilikan/NN institusional/JJ ./.
+manajemen/NN laba/NN
+

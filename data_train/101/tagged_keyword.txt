@@ -1,0 +1,4 @@
+intensitas/NN perilaku/NN ./.
+e-filing/NN ./.
+wajib/NN pajak/NN orang/NN pribadi/JJ
+

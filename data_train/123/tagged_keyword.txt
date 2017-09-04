@@ -1,0 +1,6 @@
+manufaktur/NN ./.
+nilai/NN perusahaan/NN ./.
+perencanaan/NN pajak/NN ./.
+kepemilikan/NN manajerial/JJ ./.
+kepemilikan/NN institusional/JJ
+

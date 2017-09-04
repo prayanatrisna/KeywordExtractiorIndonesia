@@ -1,0 +1,6 @@
+lq45/NN ./.
+nilai/NN perusahaan/NN ./.
+earnings/FW management/FW ./.
+kebijakan/NN dividen/NN ./.
+free/NN cash/NNP flow/NN
+

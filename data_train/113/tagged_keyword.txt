@@ -1,0 +1,5 @@
+independensi/NN ./.
+profesionalisme/NN ./.
+kepuasan/NN kerja/NN ./.
+kualitas/NN audit/NN
+

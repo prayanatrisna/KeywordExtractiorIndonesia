@@ -1,0 +1,6 @@
+tekanan/NN anggaran/NN waktu/NN ./.
+locus/NN of/FW control/NN ./.
+sifat/NN machiavellian/NN ./.
+pelatihan/NN auditor/NN ./.
+perilaku/NN disfungsional/NN auditor/NN
+

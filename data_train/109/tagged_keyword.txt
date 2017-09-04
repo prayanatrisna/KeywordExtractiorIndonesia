@@ -1,0 +1,6 @@
+pergantian/NN auditor/NN ./.
+reputasi/NN kap/NNP ./.
+opini/NN audit/NN ./.
+komite/NN audit/NN ./.
+audit/NN delay/NN
+

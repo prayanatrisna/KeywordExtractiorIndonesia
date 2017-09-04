@@ -1,0 +1,4 @@
+financial/FW distress/FW ./.
+koperasi/NN simpan/VBT pinjam/VBT ./.
+analisis/NN diskriminan/NN
+

@@ -1,0 +1,3 @@
+kinerja/NN keuangan/NN ./.
+kinerja/NN efisiensi/NN proses/NN internal/JJ
+

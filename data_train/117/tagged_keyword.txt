@@ -1,0 +1,4 @@
+pemahaman/NN bisnis/NN klien/NN ./.
+pengalaman/NN audit/NN ./.
+strategi/NN pendeteksian/NN kecurangan/NN
+

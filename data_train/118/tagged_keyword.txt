@@ -1,0 +1,5 @@
+pengalaman/NN ./.
+independensi/NN ./.
+skeptisme/NN profesional/JJ ./.
+pendeteksian/NN kecurangan/NN
+
