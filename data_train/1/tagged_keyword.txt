@@ -1,0 +1,6 @@
+indonesia/NNP sustainability/NNP reporting/NNP awards/NNP ./.
+kinerja/NN keuangan/NN ./.
+return/FW on/FW asset/NN ./.
+return/FW on/FW equity/FW ./.
+net/NN profit/NN margin/NN
+
