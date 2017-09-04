@@ -1,0 +1,5 @@
+partisipasi/NN penganggaran/NN ./.
+senjangan/NN anggaran/NN ./.
+penekanan/NN anggaran/NN ./.
+ketidakpastian/NN lingkungan/NN
+

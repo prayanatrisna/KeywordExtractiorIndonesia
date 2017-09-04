@@ -1,0 +1,6 @@
+struktur/NN audit/NN ./.
+tekanan/NN waktu/NN ./.
+disiplin/NN kerja/NN ./.
+komitmen/NN organisasi/NN ./.
+kinerja/NN auditor/NN
+

@@ -1,0 +1,7 @@
+struktur/NN finansial/JJ ./.
+pertumbuhan/NN nasabah/NN ./.
+loan/FW to/FW deposit/FW ratio/FW ./.
+rentabilitas/NN ./.
+rasio/NN roa/NN ./.
+rasio/NN bopo/NN
+

@@ -1,0 +1,5 @@
+kemanfaatan/NN ./.
+kemudahan/NN pemakaian/NN ./.
+kompetensi/NN auditor/NN ./.
+keberhasilan/NN penerapan/NN teknik/NN audit/NN berbantu/VBT komputer/NN
+

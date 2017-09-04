@@ -1,0 +1,6 @@
+voluntary/NN auditor/NN switching/NN ./.
+kepemilikan/NN publik/NN ./.
+pertumbuhan/NN perusahaan/NN ./.
+opini/NN going/NN concern/FW ./.
+kesulitan/NN keuangan/NN
+

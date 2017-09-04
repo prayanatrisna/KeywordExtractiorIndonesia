@@ -1,0 +1,7 @@
+kinerja/NN keuangan/NN ./.
+kemakmuran/NN ./.
+status/NN daerah/NN ./.
+tingkat/NN ketergantungan/NN pada/IN pusat/NN ./.
+belanja/VBT modal/NN ./.
+opini/NN audit/NN
+

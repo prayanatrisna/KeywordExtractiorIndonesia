@@ -1,0 +1,4 @@
+tingkat/NN pendidikan/NN ./.
+pengalaman/NN kerja/NN ./.
+efektivitas/NN pengendalian/NN internal/JJ
+

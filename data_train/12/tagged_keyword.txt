@@ -1,0 +1,7 @@
+model/NN unified/NNP theory/NNP of/FW acceptance/FW and/FW use/FW of/FW technology/NNP ./.
+ekspektasi/NN kinerja/NN ./.
+ekspektasi/NN usaha/NN ./.
+faktor/NN sosial/JJ ./.
+kondisi/NN yang/SC memfasilitasi/VBT ./.
+e-filing/NN
+

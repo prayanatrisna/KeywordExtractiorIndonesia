@@ -1,0 +1,5 @@
+manajemen/NN laba/NN ./.
+perencanaan/NN pajak/NN ./.
+kepemilikan/NN manajerial/JJ ./.
+ukuran/NN perusahaan/NN
+

@@ -1,0 +1,5 @@
+pertumbuhan/NN perusahaan/NN ./.
+pergantian/NN manajemen/NN ./.
+opini/NN audit/NN going/NN concern/FW ./.
+auditor/NN switching/NN
+

@@ -1,0 +1,5 @@
+umur/NN perusahaan/NN ./.
+audit/NN tenure/NN ./.
+good/FW corporate/NN governance/NN ./.
+kecepatan/NN publikasi/NN laporan/NN keuangan/NN
+

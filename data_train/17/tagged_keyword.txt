@@ -1,0 +1,5 @@
+locus/NN of/FW control/NN ./.
+gaya/NN kepemimpinan/NN ./.
+komitmen/NN organisasi/NN ./.
+kinerja/NN auditor/NN
+

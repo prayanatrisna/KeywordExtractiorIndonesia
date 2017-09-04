@@ -1,0 +1,4 @@
+penghindaran/NN pajak/NN ./.
+nilai/NN perusahaan/NN ./.
+transparansi/NN informasi/NN
+

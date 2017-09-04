@@ -1,0 +1,4 @@
+ukuran/NN perusahaan/NN ./.
+pengungkapan/NN corporate/NN social/JJ responsibility/FW ./.
+manajemen/NN laba/NN
+

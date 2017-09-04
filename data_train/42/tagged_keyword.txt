@@ -1,0 +1,5 @@
+tindakan/NN supervisi/NN ./.
+komitmen/NN organisasi/NN ./.
+kepuasan/NN kerja/NN ./.
+kinerja/NN
+

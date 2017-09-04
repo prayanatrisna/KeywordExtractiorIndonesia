@@ -1,0 +1,4 @@
+audit/NN tenure/NN ./.
+kecepatan/NN publikasi/NN ./.
+spesialisasi/NN industri/NN auditor/NN
+

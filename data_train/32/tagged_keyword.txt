@@ -1,0 +1,5 @@
+kualitas/NN audit/NN ./.
+etika/NN auditor/NN ./.
+kompetensi/NN ./.
+independensi/NN
+

@@ -1,0 +1,4 @@
+partisipasi/NN pemakai/VBT ./.
+kinerja/NN sistem/NN informasi/NN akuntansi/NN ./.
+kemampuan/NN pemakai/VBT
+

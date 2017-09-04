@@ -1,0 +1,5 @@
+prinsip-prinsip/NNP good/FW corporate/NN governance/NNP ./.
+koperasi/NN ./.
+kinerja/NN keuangan/NN ./.
+return/FW on/FW asset/FW
+

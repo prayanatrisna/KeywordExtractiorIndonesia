@@ -1,0 +1,4 @@
+good/FW corporate/NN governance/NN ./.
+kinerja/NN keuangan/NN ./.
+pengungkapan/NN tanggung/VBT jawab/VBI sosial/JJ perusahaan/NN
+

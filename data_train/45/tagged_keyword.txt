@@ -1,0 +1,7 @@
+income/NN smoothing/NN ./.
+cash/NNP holding/FW ./.
+bonus/NN plan/NN ./.
+reputasi/NN auditor/NN ./.
+profitabilitas/NN ./.
+leverage/NN
+

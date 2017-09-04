@@ -1,0 +1,5 @@
+asimetri/NN informasi/NN ./.
+senjangan/NN anggaran/NN ./.
+kecukupan/NN anggaran/NN ./.
+ketidakpastian/NN lingkungan/NN
+

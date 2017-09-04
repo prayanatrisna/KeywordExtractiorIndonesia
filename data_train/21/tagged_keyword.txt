@@ -1,0 +1,5 @@
+corporate/NN social/JJ responsibility/NN ./.
+kepemilikan/NN manajerial/JJ ./.
+kepemilikan/NN institusional/JJ ./.
+kinerja/NN perusahaan/NN
+

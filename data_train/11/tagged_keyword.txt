@@ -1,0 +1,4 @@
+partisipasi/NN penganggaran/NN ./.
+kohesivitas/NN kelompok/NN ./.
+senjangan/NN anggaran/NN
+

@@ -1,0 +1,4 @@
+nilai/NN perusahaan/NN ./.
+tanggung/VBT jawab/VBI sosial/JJ perusahaan/NN ./.
+mekanisme/NN tata/NN kelola/NN perusahaan/NN
+

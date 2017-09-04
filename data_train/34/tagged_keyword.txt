@@ -1,0 +1,7 @@
+idealisme/NN ./.
+relativisme/NN ./.
+pengetahuan/NN ./.
+umur/NN ./.
+gender/NN ./.
+persepsi/NN
+

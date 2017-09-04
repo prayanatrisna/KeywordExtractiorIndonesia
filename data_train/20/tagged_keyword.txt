@@ -1,0 +1,4 @@
+fraksi/NN harga/NN ./.
+satuan/NN perdagangan/NN ./.
+aktivitas/NN volume/NN perdagangan/NN
+

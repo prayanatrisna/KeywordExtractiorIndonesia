@@ -1,0 +1,6 @@
+tingkat/NN pendidikan/NN ./.
+besaran/NN fee/NN ./.
+komitmen/NN organisasi/NN ./.
+tekanan/NN waktu/NN ./.
+kinerja/NN auditor/NN
+

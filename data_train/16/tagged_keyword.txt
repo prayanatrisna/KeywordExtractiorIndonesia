@@ -1,0 +1,6 @@
+kepatuhan/NN wajib/VBI pajak/NN ./.
+kualitas/NN pelayanan/NN ./.
+sanksi/NN perpajakan/NN ./.
+biaya/NN kepatuhan/NN ./.
+e-filing/NN
+

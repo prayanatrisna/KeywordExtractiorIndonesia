@@ -1,0 +1,5 @@
+senjangan/NN anggaran/NN ./.
+partisipasi/NN penganggaran/NN ./.
+kepercayaan/NN diri/NN ./.
+ketidakpastian/NN lingkungan/NN
+

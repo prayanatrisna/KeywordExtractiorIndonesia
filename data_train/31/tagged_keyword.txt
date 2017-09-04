@@ -1,0 +1,7 @@
+debt/FW to/FW equity/FW ratio/NN ./.
+profitabilitas/NN ./.
+struktur/NN kepemilikan/NN ./.
+pergantian/NN auditor/NN ./.
+ukuran/NN perusahaan/NN ./.
+ketepatan/NN waktu/NN pelaporan/NN keuangan/NN
+

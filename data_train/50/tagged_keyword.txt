@@ -1,0 +1,6 @@
+underpricing/NN ./.
+umur/NN perusahaan/NN ./.
+ukuran/NN perusahaan/NN ./.
+return/FW on/FW assets/FW ./.
+financial/FW leverage/NN
+

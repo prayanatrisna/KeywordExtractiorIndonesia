@@ -1,0 +1,5 @@
+pajak/NN daerah/NN ./.
+opini/NN audit/NN bpk/NN ./.
+retribusi/NN daerah/NN ./.
+kinerja/NN belanja/VBT
+

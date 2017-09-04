@@ -1,0 +1,5 @@
+manajemen/NN laba/NN ./.
+diversifikasi/NN operasi/NN ./.
+diversifikasi/NN geografis/JJ ./.
+good/FW corporate/NN governance/NN
+

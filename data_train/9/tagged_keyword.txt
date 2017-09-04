@@ -1,0 +1,6 @@
+pergantian/NN ceo/NN ./.
+corporate/NN governance/NN ./.
+manajemen/NN laba/NN ./.
+dewan/NN komisaris/NN ./.
+komite/NN audit/NN
+

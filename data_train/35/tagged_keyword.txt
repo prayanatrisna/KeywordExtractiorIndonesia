@@ -1,0 +1,6 @@
+tax/FW avoidance/NN ./.
+leverage/NN ./.
+intensitas/NN aset/NN tetap/JJ ./.
+ukuran/NN perusahaan/NN ./.
+koneksi/NN politik/NN
+

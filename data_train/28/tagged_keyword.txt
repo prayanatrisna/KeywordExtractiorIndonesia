@@ -1,0 +1,4 @@
+belanja/VBT rutin/NN ./.
+belanja/VBT modal/NN ./.
+kinerja/NN keuangan/NN pemerintah/NN daerah/NN
+

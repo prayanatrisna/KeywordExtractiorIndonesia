@@ -1,0 +1,4 @@
+kinerja/NN keuangan/NN ./.
+pertumbuhan/NN ekonomi/NN ./.
+kemiskinan/NN
+

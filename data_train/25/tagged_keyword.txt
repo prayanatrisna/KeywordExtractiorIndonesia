@@ -1,0 +1,5 @@
+kinerja/NN auditor/NN ./.
+kompleksitas/NN tugas/NN ./.
+konflik/NN peran/NN ./.
+komitmen/NN profesional/JJ
+

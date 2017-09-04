@@ -1,0 +1,4 @@
+pajak/NN pertambahan/NN nilai/NN ./.
+pajak/NN kendaraan/NN bermotor/VBI ./.
+daya/NN beli/VBT konsumen/NN
+

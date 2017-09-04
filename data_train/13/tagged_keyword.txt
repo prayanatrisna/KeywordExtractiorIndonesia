@@ -1,0 +1,8 @@
+opini/NN audit/NN going/NN concern/FW ./.
+pertumbuhan/NN perusahaan/NN ./.
+ukuran/NN perusahaan/NN ./.
+kualitas/NN audit/NN ./.
+audit/NN lag/NN ./.
+audit/NN tenure/NN ./.
+opinion/NN shopping/NN
+
