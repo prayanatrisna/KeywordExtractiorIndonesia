@@ -1,0 +1,6 @@
+audit/NN delay/NN ./.
+ukuran/NN perusahaan/NN ./.
+profitabilitas/NN ./.
+reputasi/NN kap/NNP ./.
+moderasi/NN
+

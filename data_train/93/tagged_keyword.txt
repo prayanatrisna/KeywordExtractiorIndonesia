@@ -1,0 +1,9 @@
+pertumbuhan/NN laba/NN ./.
+car/NN ./.
+kap/NNP ./.
+ppap/NNP ./.
+bopo/NN ./.
+roa/NN ./.
+laclr/NN ./.
+ldr/NN
+

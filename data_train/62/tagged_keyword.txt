@@ -1,0 +1,4 @@
+tingkat/NN suku/NN bunga/NN ./.
+leverage/NN ./.
+profitabilitas/NN
+

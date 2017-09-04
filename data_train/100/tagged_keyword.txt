@@ -1,0 +1,6 @@
+profesionalisme/NN ./.
+komitmen/NN organisasi/NN ./.
+intensitas/NN moral/NN ./.
+akuntan/NN ./.
+whistleblowing/NN
+

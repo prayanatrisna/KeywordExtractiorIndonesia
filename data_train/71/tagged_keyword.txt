@@ -1,0 +1,4 @@
+pengungkapan/NN csr/NN ./.
+dasar/NN penerapan/NN ./.
+dampak/NN penerapan/NN csr/NN
+

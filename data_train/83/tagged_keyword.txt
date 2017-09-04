@@ -1,0 +1,5 @@
+reputasi/NN auditor/NN ./.
+tenure/NN audit/NN ./.
+komite/NN audit/NN ./.
+audit/NN report/NN lag/NN
+

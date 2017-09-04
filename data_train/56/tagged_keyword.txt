@@ -1,0 +1,6 @@
+kepemilikan/NN institusional/JJ ./.
+kepemilikan/NN manajemen/NN ./.
+komisaris/NN independen/NN ./.
+komite/NN audit/NN ./.
+integritas/NN laporan/NN keuangan/NN
+

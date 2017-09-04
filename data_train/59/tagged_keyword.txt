@@ -1,0 +1,4 @@
+locus/NN of/FW control/NN internal/JJ ./.
+tekanan/NN anggaran/NN waktu/NN ./.
+perilaku/NN underreporting/NN of/FW audit/NN time/NN
+

@@ -1,0 +1,5 @@
+perataan/NN laba/NN ./.
+cash/NNP holding/FW ./.
+profitabilitas/NN ./.
+reputasi/NN auditor/NN
+

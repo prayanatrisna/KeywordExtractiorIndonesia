@@ -1,0 +1,7 @@
+perceived/FW usefulness/FW ./.
+perceived/FW ease/FW of/FW use/FW ./.
+attitude/NN toward/NN using/NN ./.
+minat/NN (/OP intention/NNP )/CP ./.
+internet/NN banking/NN ./.
+umkm/NN
+

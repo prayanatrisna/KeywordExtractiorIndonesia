@@ -1,0 +1,4 @@
+pendapatan/NN asli/JJ daerah/NN ./.
+alokasi/NN belanja/VBT modal/NN ./.
+indeks/NN pembangunan/NN manusia/NN
+

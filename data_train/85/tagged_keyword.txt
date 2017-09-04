@@ -1,0 +1,4 @@
+manajemen/NN laba/NN ./.
+pergantian/NN ceo/NN ./.
+respon/NN pasar/NN
+

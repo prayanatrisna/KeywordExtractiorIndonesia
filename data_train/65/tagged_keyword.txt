@@ -1,0 +1,5 @@
+income/NN descreasing/NN ./.
+esop/NNP ./.
+harga/NN eksekusi/NN ./.
+good/FW corporate/NN governance/NN
+

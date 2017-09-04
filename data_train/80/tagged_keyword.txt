@@ -1,0 +1,5 @@
+nilai/NN perusahaan/NN ./.
+tingkat/NN kesehatan/NN bank/NN ./.
+rgec/NN ./.
+ukuran/NN perusahaan/NN
+

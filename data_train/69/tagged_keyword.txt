@@ -1,0 +1,5 @@
+profitabilitas/NN ./.
+opini/NN auditor/NN ./.
+ukuran/NN perusahaan/NN ./.
+audit/NN delay/NN
+

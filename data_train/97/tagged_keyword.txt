@@ -1,0 +1,5 @@
+kepemilikan/NN asing/JJ ./.
+ukuran/NN perusahaan/NN ./.
+kebijakan/NN utang/NN ./.
+kos/NN keagenan/NN
+

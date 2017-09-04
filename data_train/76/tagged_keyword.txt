@@ -1,0 +1,5 @@
+net/NN profit/NN margin/NN ./.
+current/NN ratio/NN ./.
+debt/FW to/FW equity/FW ratio/NN ./.
+dividend/FW payout/FW ratio/NN
+

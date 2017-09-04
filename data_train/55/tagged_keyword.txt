@@ -1,0 +1,5 @@
+ipo/NN ./.
+manajemen/NN laba/NN ./.
+return/JJ saham/NN ./.
+ukuran/NN perusahaan/NN
+

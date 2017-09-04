@@ -1,0 +1,5 @@
+kondisi/NN keuangan/NN perusahaan/NN ./.
+pemeriksaan/NN pajak/NN ./.
+sikap/NN wajib/VBI pajak/NN ./.
+kepatuhan/NN wajib/VBI pajak/NN
+

@@ -1,0 +1,5 @@
+senjangan/NN anggaran/NN ./.
+kejelasan/NN sasaran/NN anggaran/NN ./.
+komitmen/NN organisasi/NN ./.
+asimetri/NN informasi/NN
+

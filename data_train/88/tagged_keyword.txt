@@ -1,0 +1,4 @@
+struktur/NN kepemilikan/NN ./.
+kebijakan/NN utang/NN ./.
+nilai/NN perusahaan/NN
+

@@ -1,0 +1,6 @@
+penghindaran/NN pajak/NN ./.
+proporsi/NN komisaris/NN independen/NN ./.
+keberadaan/NN komite/NN audit/NN ./.
+preferensi/NN risiko/NN eksekutif/JJ ./.
+ukuran/NN perusahaan/NN
+

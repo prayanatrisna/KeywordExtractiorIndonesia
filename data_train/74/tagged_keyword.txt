@@ -1,0 +1,4 @@
+kinerja/NN lpd/NN ./.
+balance/NNP scorecard/NNP ./.
+good/FW corporate/NN governance/NN dan/CC komitmen/NN organisasi/NN
+

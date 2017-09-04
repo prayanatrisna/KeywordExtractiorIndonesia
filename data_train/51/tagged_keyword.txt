@@ -1,0 +1,5 @@
+audit/NN delay/NN ./.
+audit/NN tenure/NN ./.
+pergantian/NN auditor/NN ./.
+financial/FW distress/FW
+

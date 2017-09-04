@@ -1,0 +1,6 @@
+komite/NN audit/NN ./.
+ukuran/NN perusahaan/NN ./.
+audit/NN tenure/NN ./.
+reputasi/NN kap/NNP ./.
+opini/NN audit/NN going/NN concern/FW
+

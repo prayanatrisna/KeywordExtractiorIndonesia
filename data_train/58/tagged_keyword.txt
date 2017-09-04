@@ -1,0 +1,4 @@
+pengendalian/NN anggaran/NN ./.
+senjangan/NN anggaran/NN ./.
+orientasi/NN jangka/NN pendek/JJ manajer/NN
+

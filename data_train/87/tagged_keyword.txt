@@ -1,0 +1,4 @@
+asimetri/NN informasi/NN ./.
+leverage/NN ./.
+kepemilikan/NN manajerial/JJ
+

@@ -1,0 +1,11 @@
+edukasi/NN ./.
+gender/NN ./.
+investasi/NN ./.
+minat/NN investasi/NN ./.
+pelatihan/NN pasar/NN modal/NN ./.
+return/JJ ./.
+risiko/NN ./.
+saham/NN ./.
+teknologi/NN ./.
+pasar/NN modal/NN
+

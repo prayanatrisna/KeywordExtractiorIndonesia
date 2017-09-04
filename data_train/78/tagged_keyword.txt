@@ -1,0 +1,5 @@
+going/NN concern/FW ./.
+audit/NN delay/NN ./.
+reputasi/NN kap/NNP ./.
+auditor/NN switching/NN
+

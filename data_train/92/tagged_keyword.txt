@@ -1,0 +1,5 @@
+penganggaran/NN partisipatif/NN ./.
+keterlibatan/NN kerja/NN ./.
+karakteristik/NN personal/JJ ./.
+senjangan/NN anggaran/NN
+

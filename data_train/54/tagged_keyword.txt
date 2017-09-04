@@ -1,0 +1,5 @@
+dewan/NN komisaris/NN ./.
+komite/NN audit/NN ./.
+manajemen/NN laba/NN ./.
+fee/NN audit/NN
+

@@ -1,0 +1,4 @@
+partisipasi/NN penyusunan/NN anggaran/NN ./.
+kinerja/NN aparat/NN pemerintah/NN ./.
+kepuasan/NN kerja/NN
+

@@ -1,0 +1,4 @@
+pengalaman/NN ./.
+komitmen/NN auditor/NN ./.
+kualitas/NN audit/NN
+

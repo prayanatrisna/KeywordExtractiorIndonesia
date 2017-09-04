@@ -1,0 +1,6 @@
+perataan/NN laba/NN ./.
+return/FW on/FW asset/NN ./.
+net/NN profit/NN margin/NN ./.
+debt/FW to/FW equity/FW ratio/NN ./.
+ukuran/NN perusahaan/NN
+

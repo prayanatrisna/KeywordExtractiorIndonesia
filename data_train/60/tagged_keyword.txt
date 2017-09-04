@@ -1,0 +1,5 @@
+kualitas/NN audit/NN ./.
+profesionalisme/NN ./.
+pengalaman/NN audit/NN ./.
+tekanan/NN anggaran/NN waktu/NN
+

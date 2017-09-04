@@ -1,0 +1,4 @@
+anggaran/NN ./.
+asimetri/NN informasi/NN ./.
+budgetary/NN slack/NN
+

@@ -1,0 +1,5 @@
+kinerja/NN auditor/NN ./.
+teknik/NN audit/NN berbantuan/NN komputer/NN ./.
+pelatihan/NN profesional/JJ ./.
+etika/NN profesi/NN
+

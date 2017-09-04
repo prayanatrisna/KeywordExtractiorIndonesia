@@ -1,0 +1,5 @@
+devidend/FW per/NN share/NN (/OP dps/NNP )/CP ./.
+return/FW on/FW equity/FW (/OP roe/NN )/CP ./.
+price/FW to/FW book/NN value/NN (/OP pbv/NNP )/CP ./.
+return/JJ saham/NN
+

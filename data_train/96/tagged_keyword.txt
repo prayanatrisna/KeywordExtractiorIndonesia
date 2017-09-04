@@ -1,0 +1,5 @@
+firm/NN size/NN ./.
+financial/FW distress/FW ./.
+pergantian/NN manajemen/NN ./.
+pergantian/NN kap/NNP
+
