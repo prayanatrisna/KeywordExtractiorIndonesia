@@ -1,0 +1,368 @@
+Pasar/NN modal/NN adalah/VBT tempat/NN berinvestasi/VBT dengan/IN konsekuensi/NN untung/NN (/OP gain/NN )/CP dan/CC rugi/JJ (/OP lost/NNP )/CP ./. 
+Salah/JJ satu/CDP pertimbangan/NN investor/NN untuk/IN berinteraksi/VBT di/IN pasar/NN modal/NN adalah/VBT dengan/IN melihat/VBT tingkat/NN likuiditas/NN suatu/DT saham/NN ./. 
+Likuiditas/NNP adalah/VBT kemampuan/NN bagaimana/WP saham/NN dapat/MD ditransaksikan/VBT dan/CC diuangkan/VBT dalam/IN bentuk/NN tunai/VBT dengan/IN mudah/JJ (/OP Bodie/NNP et/NN al/NN ./. 
+,/, 2011/CDP :/: 426/CDP )/CP ./. 
+Perspektif/NN tersebut/DT mengindikasikan/VBI bahwa/SC semakin/RB likuid/JJ suatu/DT saham/NN ,/, maka/SC semakin/RB diminati/VBT oleh/IN investor/NN dan/CC begitu/RB sebaliknya/SC ./. 
+Likuiditas/NN saham/NN dapat/MD ditingkatkan/VBT melalui/VBT penerapan/NN aturan/NN perdagangan/NN baru/JJ ,/, salah/JJ satunya/PRN adalah/VBT perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN (/OP Santosa/NNP ,/, 2011/CDP ;/; Gerace/NN et/NN al/NN ./. 
+,/, 2012/CDP ;/; Libert/NNP ,/, 2014/CDP ;/; Andriyani/NN ,/, 2014/CDP ;/; Susanto/NNP ,/, 2014/CDP ;/; Chandra/NN ,/, 2015/CDP )/CP ./. 
+Besaran/NNP satuan/NN perdagangan/NN dan/CC fraksi/NN harga/NN adalah/VBT komponen/NN struktur/NN mikro/NN pasar/NN yang/SC berperan/VBT penting/JJ dalam/IN meningkatkan/VBT likuiditas/NN ./. 
+Teori/NN struktur/NN mikro/NN pasar/NN ,/, secara/IN jelas/JJ menyatakan/VBT bagaimana/WP aturan/NN perdagangan/NN menentukan/VBT harga/NN aset/NN (/OP saham/NN )/CP di/IN pasar/NN modal/NN (/OP O/NNP Hara/NNP ,/, 1995/NN :/: 1/CDP )/CP ./. 
+Aturan/NN perdagangan/NN merupakan/VBT bagian/NN dari/IN desain/NN dan/CC struktur/NN pasar/NN ./. 
+Apabila/NN aturan/NN berubah/VBT ,/, maka/SC dapat/MD merefleksikan/VBT naik-turunnya/VBT pergerakan/NN aktivitas/NN volume/NN perdagangan/NN dan/CC tingkah/NN laku/NN investor/NN dalam/IN berspekulasi/VBT ./. 
+Aturan/NN perdagangan/NN baru/JJ merupakan/VBT implementasi/NN dari/IN ekspektasi/NN Bursa/NN Efek/NN Indonesia/NNP untuk/IN meningkatkan/VBT likuiditas/NN saham/NN ./. 
+Hal/NN ini/DT sesuai/RB dengan/IN pernyataan/NN Ito/NNP Warsito/NNP selaku/NN Direktur/NN Utama/NN Bursa/NN Efek/NN Indonesia/NNP ,/, yang/SC secara/IN spesifik/JJ berekspektasi/NN bahwa/SC likuiditas/NN saham/NN akan/MD meningkat/VBI melalui/VBT perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN (/OP Melani/NNP ,/, 2013/CDP ;/; Pradipta/NNP ,/, 2014/CDP )/CP ./. 
+Fraksi/NN harga/NN adalah/VBT batas/NN perubahan/NN atau/CC kelipatan/NN maksimum/NN harga/NN tawar/NN dasar/NN atas/IN suatu/DT efek/NN yang/SC besar/JJ kecilnya/NNG dilegalkan/VBT oleh/IN Bursa/NN Efek/NN (/OP Darmadji/NNP dan/CC Fakhrudin/NNP ,/, 2001/CDP :/: 88/NN ;/; Chandra/NN ,/, 2015/CDP )/CP ./. 
+Hal/NN ini/DT merupakan/VBT salah/JJ satu/CDP dari/IN dua/CDP aturan/NN baru/JJ yang/SC terkandung/VBT dalam/IN Surat/NN Keputusan/NN No/NNP ./. 
+KEP-00071/CDP //GM BEI/NN //GM 112013/CDP ./. 
+Fraksi/NN harga/NN baru/JJ secara/IN umum/JJ bertujuan/VBI untuk/IN meningkatkan/VBT gairah/NN investor/NN untuk/IN membeli/VBT saham/NN dengan/IN harga/NN tawar/NN yang/SC lebih/RB murah/JJ ,/, seperti/IN pada/IN kelompok/NN harga/NN Rp500/CDP sampai/RB kurang/RB dari/IN Rp5/NN ./. 
+000/CDP ,/, di/IN mana/WP fraksi/NN harga/NN turun/VBI dari/IN Rp10/CDP dan/CC Rp25/NN menjadi/VBT Rp5/NN ./. 
+Kemudian/SC rentang/NN harga/NN Rp200/CDP sampai/VBI dengan/IN kurang/RB dari/IN Rp500/CDP mengalami/VBT penurunan/NN fraksi/NN dari/IN Rp5/NN menjadi/VBT Rp1/NN ./. 
+Dari/IN perspektif/NN penjual/NN juga/RB tidak/NEG sepenuhnya/RB dirugikan/VBT ,/, karena/CC perubahan/NN fraksi/NN harga/NN meningkat/VBI dari/IN 10/CDP kali/NN lipat/NN menjadi/VBT 20/CDP kali/NN lipat/NN ./. 
+Hal/NN ini/DT secara/IN spesifik/JJ berlaku/VBI untuk/IN rentang/NN harga/NN di/IN bawah/NN Rp200/CDP ,/, harga/NN Rp500/CDP sampai/VBI dengan/IN di/IN bawah/NN Rp2/NN ./. 
+000/CDP dan/CC harga/NN di/IN atas/IN Rp5/NN ./. 
+000/CDP ./. 
+Satuan/NN perdagangan/NN adalah/VBT salah/JJ satu/CDP kebijakan/NN baru/JJ selain/SC fraksi/NN harga/NN yang/SC diterapkan/VBT bersamaan/RB pada/IN 6/CDP Januari/NN 2014/CDP dan/CC telah/MD dipublikasikan/VBT sejak/IN 8/CDP Oktober/NNP 2013/CDP ./. 
+Satuan/NN perdagangan/NN merupakan/VBT satuan/NN standar/NN yang/SC mewakili/VBT jumlah/NN lembar/NN saham/NN yang/SC besar/JJ kecilnya/NNG dilegalkan/VBT oleh/IN Bursa/NN Efek/NN ./. 
+Aturan/NN satuan/NN perdagangan/NN berubah/VBT dari/IN 1/CDP lot/NN mewakili/VBT 500/CDP lembar/NN saham/NN menjadi/VBT 1/CDP lot/NN mewakili/VBT 100/CDP lembar/NN saham/NN ./. 
+Latar/NN belakang/NN perubahan/NN satuan/NN perdagangan/NN adalah/VBT jumlah/NN lembar/NN saham/NN yang/SC di/IN bawah/NN standar/NN satuan/NN (/OP kurang/RB dari/IN 500/CDP lembar/NN )/CP tidak/NEG dapat/MD diperdagangkan/VBT di/IN pasar/NN regular/NN dan/CC modal/NN yang/SC dibutuhkan/VBT untuk/IN membeli/VBT saham/NN unggulan/NN dengan/IN standar/NN satuan/NN lot/NN terbilang/VBT sangat/RB mahal/NN ./. 
+Tujuan/NN utama/JJ dari/IN penurunan/NN ukuran/NN lot/NN saham/NN adalah/VBT memungkinkan/VBT investor/NN membeli/VBT saham/NN dengan/IN dana/NN terbatas/VBI dan/CC membuka/VBT peluang/NN bagi/IN investor/NN kecil/JJ untuk/IN mendapatkan/VBT saham-saham/NN unggulan/NN ./. 
+Likuiditas/NN saham/NN mencakup/VBT aspek/NN yang/SC sangat/RB luas/JJ ./. 
+Salah/JJ satu/CDP alat/NN ukur/NN yang/SC dapat/MD digunakan/VBT untuk/IN menentukan/VBT tinggi/JJ rendahnya/VBT likuiditas/NN adalah/VBT aktivitas/NN volume/NN perdagangan/NN (/OP Wyss/NNP ,/, 2004/CDP ;/; Susanto/NNP ,/, 2014/CDP )/CP ./. 
+Aktivitas/NN volume/NN perdagangan/NN bertujuan/VBI untuk/IN mengetahui/VBI berapa/VBI banyak/JJ jumlah/NN lembar/NN saham/NN yang/SC diperdagangkan/VBT (/OP jual/VBT dan/CC //GM atau/CC beli/VBT )/CP dari/IN total/NN keseluruhan/NN saham/NN yang/SC beredar/NN selama/IN periode/NN waktu/NN tertentu/JJ ./. 
+Penelitian/NN Susanto/NNP (/OP 2014/CDP )/CP mengenai/VBT perbedaan/NN likuiditas/NN saham/NN dan/CC kapitalisasi/NN pasar/NN saham/NN sebelum/NN dan/CC sesudah/SC pemberlakuan/NN Surat/NN Keputusan/NN No/NNP ./. 
+KEP-00071/CDP //GM BEI/NN //GM 11-2013/CDP di/IN Indonesia/NNP ./. 
+Hasil/NN penelitian/NN menujukkan/NN bahwa/SC satuan/NN perdagangan/NN dan/CC fraksi/NN harga/NN berpengaruh/NN positif/JJ terhadap/IN likuiditas/NN saham/NN ./. 
+Selanjutnya/CC Chandra/NNP (/OP 2015/CDP )/CP menyatakan/VBT market/NN semakin/RB likuid/JJ setelah/SC perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN ./. 
+Pernyataan/NN ini/DT didukung/VBT oleh/IN penelitian/NN Ricker/NNP (/OP 1994/CDP )/CP ,/, Sirodom/NNP et/NN al/NN ./. 
+(/OP 2006/CDP )/CP ,/, Satiari/NNP (/OP 2009/CDP )/CP ,/, Santosa/NNP (/OP 2011/CDP )/CP ,/, Ekaputra/NNP dan/CC Asikin/NNP (/OP 2012/CDP )/CP yang/SC menunjukkan/VBT aktivitas/NN volume/NN perdagangan/NN meningkat/VBI setelah/SC penerapan/NN fraksi/NN harga/NN baru/JJ ./. 
+Hal/NN ini/DT berbanding/VBT terbalik/VBT dengan/IN penelitian/NN Ahn/NNP et/NN al/NN ./. 
+(/OP 1995/CDP )/CP ,/, Nugroho/NNP (/OP 2006/CDP )/CP ,/, Pavabutr/NNP dan/CC Prangwattananon/NNP (/OP 2009/CDP )/CP bahwa/SC perubahan/NN fraksi/NN harga/NN tidak/NEG berpengaruh/NN signifikan/JJ terhadap/IN volume/NN perdagangan/NN ./. 
+Selanjutnya/CC hasil/NN penelitian/NN Libert/NNP (/OP 2014/CDP )/CP menunjukkan/VBT likuiditas/NN saham/NN terbukti/NN meningkat/VBI setelah/SC perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN ,/, namun/CC volume/NN perdagangan/NN tidak/NEG berbeda/JJ signifikan/JJ ./. 
+Sedangkan/CC Goldstein/NNP dan/CC Kavajecz/NNP (/OP 2000/CDP )/CP dan/CC Jones/NNP dan/CC Lipson/NNP (/OP 2000/CDP )/CP beragumentasi/NN bahwa/SC penurunan/NN fraksi/NN harga/NN mengakibatkan/VBT volume/NN perdagangan/NN menurun/VBI ./. 
+Hal/NN ini/DT didukung/VBT oleh/IN hasil/NN penelitian/NN Andriyani/NNP (/OP 2014/CDP )/CP yang/SC menunjukkan/VBT bahwa/SC tidak/NEG terbukti/NN adanya/NNG perbedaan/NN rata-rata/NN volume/NN perdagangan/NN disekitar/NN periode/NN perubahan/NN kuota/NN lot/NN ./. 
+Aturan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN baru/JJ dilaksanakan/VBT pada/IN hari/NN yang/SC bersamaan/RB yaitu/SC tanggal/VBI 6/CDP Januari/NN 2014/CDP ./. 
+Aturan/NN perdagangan/NN tersebut/DT juga/RB merupakan/VBT satu-kesatuan/NN yang/SC tercantum/VBT dalam/IN konsiderat/NN Surat/NN Keputusan/NN No/NNP ./. 
+KEP-00071/CDP //GM BEI/NN //GM 11-2013/CDP dan/CC memiliki/VBT tujuan/NN serta/CC fungsi/NN yang/SC sama/JJ ,/, sehingga/SC sulit/JJ untuk/IN mengidentifikasi/VBT salah/JJ satu/CDP dari/IN aturan/NN tersebut/DT yang/SC menyebabkan/VBT naik-turunnya/NNG likuiditas/NN saham/NN ./. 
+Berdasarkan/VBT hal/NN tersebut/DT ,/, maka/SC penelitian/NN ini/DT mencoba/VBT menguji/JJ kedua/CDP aturan/NN tersebut/DT secara/IN bersamaan/RB untuk/IN menghindari/VBT hasil/NN penelitian/NN dari/IN informasi/NN lain/JJ yang/SC bersifat/NN bias/NN ./. 
+Berdasarkan/VBT uraian/NN di/IN atas/IN perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN menarik/JJ untuk/IN diteliti/VBT ,/, karena/CC pada/IN penelitian/NN sebelumnya/NNG belum/NEG ada/VBI bahan/NN pembanding/NN untuk/IN menguji/JJ konsistensi/NN hasil/NN penelitian/NN terkait/VBT penerapan/NN Surat/NN Keputusan/NN No/NNP ./. 
+KEP-00071/CDP //GM BEI/NN //GM 11-2013/CDP ./. 
+Penelitian/NN ini/DT bertujuan/VBI untuk/IN melakukan/VBT replikasi/NN kembali/RB atas/IN penelitian/NN Marliyah/NN dan/CC Rikumahu/NNP (/OP 2014/CDP )/CP dan/CC Andriyani/NNP (/OP 2014/CDP )/CP ./. 
+Penelitian/NN ini/DT menggunakan/VBT aktivitas/NN volume/NN perdagangan/NN untuk/IN melihat/VBT perbandingan/NN likuiditas/NN saham/NN sebagai/IN metode/NN analisis/NN data/NN ./. 
+Perbedaaannya/NNP terletak/VBI pada/IN pembahasan/NN hasil/NN penelitian/NN dilakukan/VBT dengan/IN lingkup/VBT yang/SC lebih/RB spesifik/JJ berdasarkan/VBT kelompok/NN harga/NN yang/SC berlaku/VBI saat/NN ini/DT ./. 
+Berdasarkan/VBT latar/NN belakang/NN tersebut/DT ,/, penelitian/NN ini/DT mencoba/VBT meneliti/VBT adanya/NNG perbedaan/NN likuiditas/NN saham/NN antara/IN sebelum/NN dan/CC sesudah/SC perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN ./. 
+Kegunaan/NN dalam/IN penelitian/NN ini/DT di/IN bagi/IN menjadi/VBT tiga/CDP bagian/NN yaitu/SC kegunaan/NN teoritis/JJ ,/, kegunaan/NN praktis/JJ ,/, dan/CC kegunaan/NN regulasi/NN ./. 
+Kegunaan/NN teoritis/JJ mencoba/VBT memberikan/VBT bukti/NN empiris/JJ atas/IN teori/NN struktur/NN mikro/NN pasar/NN ,/, di/IN mana/WP aturan/NN perdagangan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN mampu/MD meningkatkan/VBT likuiditas/NN saham/NN pada/IN perusahaan/NN yang/SC masuk/VBT dalam/IN daftar/NN indeks/NN Kompas/NN 100/CDP ./. 
+Selanjutnya/NNG penelitian/NN ini/DT diharapkan/VBT mampu/MD menjadi/VBT referensi/NN dan/CC memberikan/VBT sumbangan/NN konseptual/JJ bagi/IN civitas/NN akademika/SC lainnya/NNG ,/, baik/JJ sebagai/IN bahan/NN pembanding/NN ,/, pengembangan/NN untuk/IN penelitian/NN selanjutnya/NNG ,/, serta/CC penyempurnaan/NN untuk/IN penelitian-penelitian/NN sebelumnya/NNG ./. 
+Kegunaan/NN praktis/JJ digunakan/VBT sebagai/IN masukan/NN bagi/IN para/DT investor/NN dalam/IN rangka/NN berinvestasi/VBT terkait/VBT perubahan/NN aturan/NN perdagangan/NN yang/SC terjadi/VBI sehingga/SC dapat/MD mengurangi/VBT risiko/NN portofolionya/NNG ./. 
+Hal/NN ini/DT dapat/MD dilakukan/VBT dengan/IN mengamati/VBT perubahan/NN tingkat/NN likuiditas/NN saham/NN sesudah/SC penerapan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN baru/JJ ./. 
+Kegunaan/NN regulasi/NN berfungsi/VBT sebagai/IN bahan/NN pertimbangan/NN bagi/IN lembaga/NN Bursa/NN Efek/NN Indonesia/NNP dalam/IN membuat/VBT regulasi/NN baru/JJ terkait/VBT perubahan/NN fraksi/NN dan/CC satuan/NN perdagangan/NN ,/, sehingga/SC kebijakan/NN yang/SC diambil/VBT dapat/MD disesuaikan/VBT dengan/IN perkembangan/NN pasar/NN modal/NN dan/CC kemampuan/NN pelaku/NN pasar/NN dilapangan/NN ,/, agar/SC sesuai/RB dengan/IN ekspektasi/NN yang/SC ingin/VBT dicapai/VBT ./. 
+Teori/NN struktur/NN mikro/NN pasar/NN (/OP market/NN microstructure/NN theory/NNP )/CP digunakan/VBT sebagai/IN dasar/NN hipotesis/NN terkait/VBT perubahan/NN likuiditas/NN saham/NN akibat/NN perubahan/NN aturan/NN perdagangan/NN ./. 
+Struktur/NN mikro/NN pasar/NN merupakan/VBT sebuah/NN teori/NN baru/JJ yang/SC membahas/VBT kompetisi/NN pada/IN harga/NN ,/, likuiditas/NN ,/, aturan/NN perdagangan/NN ,/, informasi/NN pasar/NN ,/, dan/CC biaya/NN perdagangan/NN saham/NN di/IN pasar/NN ./. 
+Struktur/NN mikro/NN pasar/NN adalah/VBT teori/NN yang/SC menjelaskan/VBI bagaimana/WP aturan/NN perdagangan/NN menentukan/VBT harga/NN aset/NN (/OP saham/NN )/CP di/IN pasar/NN modal/NN (/OP O/NNP Hara/NNP ,/, 1995/NN :/: 1/CDP )/CP ./. 
+Menurut/VBT Giridhar/NN (/OP dalam/IN Idvall/NN and/FW Jonsson/NNP ,/, 2008/CDP :/: 6/CDP )/CP ,/, teori/NN struktur/NN mikro/NN pasar/NN mengandung/VBT empat/CDP hal/NN utama/JJ yang/SC terdiri/VBI dari/IN Pembentukan/NN dan/CC penemuan/NN harga/NN ,/, biaya/NN transaksi/NN dan/CC waktu/NN ,/, struktur/NN dan/CC desain/NN pasar/NN ,/, serta/CC informasi/NN dan/CC pengungkapan/NN ./. 
+Pembentukan/NN dan/CC penemuan/NN harga/NN adalah/VBT faktor/NN pertama/CDO yang/SC difokuskan/VBT pada/IN proses/NN penentuan/NN harga/NN untuk/IN aset/NN yang/SC didasarkan/VBT pada/IN kondisi/NN permintaan/NN dan/CC penawaran/NN untuk/IN aset/NN tertentu/JJ ./. 
+Investor/NN semua/NN memiliki/VBT pandangan/NN yang/SC berbeda/JJ tentang/IN harga/NN masa/NN depan/NN atas/IN aset/NN ,/, sehingga/SC membuat/VBT pola/NN perdagangan/NN mereka/PRP terjadi/VBI pada/IN yang/SC harga/NN yang/SC bervariasi/VBT ,/, dan/CC harga/NN hanya/RB ditentukan/VBT ketika/SC dianggap/VBT sesuai/RB ./. 
+Kompetisi/NN ini/DT dilakukan/VBT melalui/VBT berbagai/CDI cara/NN seperti/IN lelang/NN atau/CC negosiasi/NN ,/, di/IN mana/WP investor/NN berdagang/VBI pada/IN harga/NN yang/SC ditetapkan/VBT oleh/IN otoritas/NN pasar/NN modal/NN ,/, sehingga/SC membuat/VBT penentuan/NN harga/NN terjadi/VBI lebih/RB cepat/JJ sehingga/SC pasar/NN lebih/RB efisien/JJ ./. 
+Biaya/NN transaksi/NN dan/CC waktu/NN adalah/VBT faktor/NN kedua/CDO yang/SC dipertimbangkan/VBT ketika/SC perdagangan/NN antar/NN investor/NN di/IN pasar/NN terjadi/VBI ,/, mereka/PRP akan/MD menghadapi/VBT dua/CDP macam/NN biaya/NN :/: implisit/NN dan/CC eksplisit/NN ./. 
+Sebagai/IN contoh/NN biaya/NN broker/FW dan/CC //GM atau/CC pajak/NN ./. 
+Implisit/NN mendeskripsikan/VBT bagaimana/WP sulitnya/NN dalam/IN mengidentifikasi/VBT dan/CC mengukur/VBT suatu/DT biaya/NN ./. 
+Dampak/NN biaya/NN pasar/NN berkaitan/VBI dengan/IN perubahan/NN harga/NN ,/, karena/CC perdagangan/NN besar/JJ dalam/IN waktu/NN singkat/JJ dan/CC biaya/NN waktu/NN untuk/IN perubahan/NN harga/NN dapat/MD terjadi/VBI antara/IN keputusan/NN dan/CC eksekusi/NN ./. 
+Struktur/NN dan/CC desain/NN pasar/NN adalah/VBT faktor/NN ketiga/CDO yang/SC menitikberatkan/VBT hubungan/NN antara/IN penentuan/NN harga/NN dan/CC aturan/NN perdagangan/NN ./. 
+Struktur/NN serta/CC desain/NN memiliki/VBT dampak/NN besar/JJ pada/IN penemuan/NN harga/NN ,/, likuiditas/NN dan/CC biaya/NN perdagangan/NN ,/, serta/CC mengacu/VBT pada/IN atribut/NN pasar/NN yang/SC digambarkan/VBT dalam/IN aturan/NN perdagangan/NN ,/, seperti/IN fraksi/NN harga/NN ,/, satuan/NN perdagangan/NN ,/, tingkat/NN kontinuitas/NN ,/, transparansi/NN ,/, penentuan/NN harga/NN ,/, otomatisasi/NN ,/, dan/CC protokol/NN pasar/NN perdagangan/NN ./. 
+Informasi/NN dan/CC pengungkapan/NN adalah/VBT faktor/NN keempat/CDP yang/SC memandang/VBI penting/JJ pada/IN aspek/NN informasi/NN pasar/NN dan/CC dampak/NN dari/IN informasi/NN pada/IN perilaku/NN pelaku/NN pasar/NN ./. 
+Seorang/NN pedagang/NN yang/SC memiliki/VBT informasi/NN lebih/RB ,/, mungkin/RB dapat/MD menghindari/VBT risiko/NN yang/SC terkait/VBT dengan/IN perdagangan/NN ./. 
+Meskipun/CC teori/NN pasar/NN efisien/JJ menyatakan/VBT bahwa/SC pasar/NN sulit/JJ diidentifikasi/NN dan/CC semua/CDI pelaku/NN pasar/NN memperoleh/VBT informasi/NN yang/SC sama/JJ ,/, hal/NN ini/DT menyebabkan/VBT abnormal/JJ return/JJ yang/SC diterima/VBT beberapa/CDI investor/NN masih/RB dapat/MD terjadi/VBI ./. 
+Ketika/SC berbicara/VBI tentang/IN informasi/NN pasar/NN ,/, hal/NN ini/DT merujuk/VBT pada/IN informasi/NN yang/SC memiliki/VBT dampak/NN langsung/JJ pada/IN nilai/NN pasar/NN dari/IN aset/NN ./. 
+Salah/JJ satu/CDP bagian/NN utama/JJ dari/IN struktur/NN mikro/NN pasar/NN adalah/VBT desain/NN dan/CC struktur/NN pasar/NN ./. 
+Desain/NNP dan/CC struktur/NN pasar/NN menunjukkan/VBT bagaimana/WP likuiditas/NN pasar/NN modal/NN terbentuk/VBT melalui/VBT aturan/NN perdagangan/NN yang/SC diterapkan/VBT ./. 
+Bagian/NN yang/SC paling/RB menarik/JJ untuk/IN dikaji/NN dari/IN penelitian/NN teori/NN struktur/NN mikro/NN pasar/NN adalah/VBT tentang/IN kualitas/NN pasar/NN terutama/JJ likuiditasnya/VBT ,/, karena/CC semua/CDI pihak/NN berkepentingan/VBI dengan/IN isu/NN ini/DT (/OP Setyawasih/NNP ,/, 2011/CDP )/CP ./. 
+Hal/NN ini/DT senada/VBI dengan/IN pernyataan/NN O/NN Hara/NNP (/OP 1995/CDP :/: 215/CDP )/CP ,/, bahwa/SC likuiditas/NN adalah/VBT salah/JJ satu/CDP komponen/NN yang/SC memberikan/VBT wawasan/NN penting/JJ terhadap/IN tingkah/NN laku/NN pasar/NN dan/CC hubungan/NN timbal/JJ balik/NN didalamnya/VBT serta/CC dianggap/VBT sebagai/IN pemeran/NN utama/JJ dalam/IN pembentukan/NN pasar/NN ./. 
+Fraksi/NN harga/NN adalah/VBT batas/NN perubahan/NN atau/CC kelipatan/NN maksimum/NN harga/NN tawar/NN dasar/NN atas/IN suatu/DT efek/NN yang/SC besar/JJ kecilnya/NNG dilegalkan/VBT oleh/IN Bursa/NN Efek/NN (/OP Darmadji/NNP dan/CC Fakhrudin/NNP ,/, 2001/CDP :/: 88/NN ;/; Chandra/NN ,/, 2015/CDP )/CP ./. 
+Salah/JJ satu/CDP protokol/NN terpenting/VBT dalam/IN pasar/NN sekuritas/NN adalah/VBT besarnya/NNG kenaikan/NN harga/NN minimum/NN (/OP tick/NN )/CP di/IN mana/PRL para/DT pelaku/NN pasar/NN melakukan/VBT transaksi/NN dan/CC menetapkan/VBT harga/NN ./. 
+Perubahan/NN fraksi/NN harga/NN baru/JJ terjadi/VBI pada/IN rentang/NN harga/NN saham/NN di/IN bawah/NN Rp500/CDP dengan/IN fraksi/NN harga/NN Rp1/NN dan/CC kelipatan/NN maksimum/NN Rp20/CDP ./. 
+Selanjutnya/CC rentang/NN harga/NN Rp500/CDP hingga/CC di/IN bawah/NN Rp5/NN ./. 
+000/CDP dengan/IN fraksi/NN harga/NN Rp5/NN dan/CC kelipatan/NN maksimum/NN Rp100/CDP ./. 
+Kemudian/SC untuk/IN rentang/NN harga/NN di/IN atas/IN Rp5/NN ./. 
+000/CDP dengan/IN fraksi/NN harga/NN Rp25/NN dan/CC kelipatan/NN maksimum/NN Rp500/CDP ./. 
+Dengan/IN kata/VBT lain/JJ perubahan/NN fraksi/NN harga/NN maksimal/JJ hanya/RB dapat/MD mencapai/VBT 20/CDP kali/NN lipat/NN dari/IN fraksi/NN dasar/NN pada/IN masing-masing/DT kelompok/NN harga/NN ,/, sedangkan/CC fraksi/NN harga/NN sebelumnya/SC hanya/RB dapat/MD berubah/VBT maksimal/JJ 10/CDP kali/NN lipat/NN ./. 
+Perubahan/NN fraksi/NN harga/NN pada/IN 6/CDP Januari/NN 2014/CDP dapat/MD dilihat/VBT pada/IN Tabel/NN 1/CDP di/IN bawah/NN ./. 
+Tabel/NN 1/CDP ./. 
+Perubahan/NN Fraksi/NN Harga/NN Pada/IN 6/CDP Januari/NN 2014/CDP (/OP Dalam/IN Satuan/NN Rupiah/NNP )/CP Sumber/NN :/: Bursa/NN Efek/NN Indonesia/NNP ,/, 2013/CDP Berdasarkan/VBT Tabel/NN 1/CDP tersebut/DT ,/, dapat/MD diambil/VBT tiga/CDP kesimpulan/NN ,/, pertama/CDO terjadi/VBI penurunan/NN fraksi/NN harga/NN sebelum/NN dan/CC sesudah/SC untuk/IN fraksi/NN harga/NN Rp5/NN turun/VBI menjadi/VBT Rp1/NN ,/, kemudian/SC Rp10/CDP dan/CC Rp25/NN turun/VBI menjadi/VBT Rp5/NN serta/CC fraksi/NN harga/NN Rp50/CDP turun/VBI menjadi/VBT Rp25/NN ./. 
+Kesimpulan/NN kedua/CDO adalah/VBT untuk/IN kelompok/NN harga/NN di/IN bawah/NN Rp200/CDP untuk/IN periode/NN sebelum/NN dan/CC sesudah/SC tidak/NEG mengalami/VBT perubahan/NN fraksi/NN harga/NN dan/CC tetap/JJ berada/VBI pada/IN angka/NN Rp1/NN ./. 
+Ketiga/CDO terjadi/VBI pengurangan/NN kelompok/NN dan/CC fraksi/NN harga/NN dari/IN lima/CDP menjadi/VBT tiga/CDP jenis/NN ./. 
+Satuan/NN perdagangan/NN disebut/VBT dengan/IN istilah/NN lot/NN ,/, selanjutnya/CC lot/NN dijadikan/VBT sebagai/IN acuan/NN dalam/IN jual/VBT beli/VBT saham/NN dengan/IN ukuran/NN 1/CDP lot/NN mewakilkan/VBT 500/CDP lembar/NN saham/NN (/OP Darmadji/NNP dan/CC Fakhruddin/NNP ,/, 2001/CDP :/: 87/CDP )/CP ./. 
+Surat/NN Keputusan/NN No/NNP ./. 
+KEP00071/NN //GM BEI/NN //GM 11-2013/CDP menetapkan/VBT bahwa/SC transaksi/NN jual/VBT beli/VBT efek/NN bersifat/NN ekuitas/NN di/IN pasar/NN reguler/JJ dan/CC pasar/NN tunai/VBT wajib/VBI menggunakan/VBT satuan/NN perdagangan/NN (/OP round/FW lot/NN )/CP atau/CC kelipatannya/NNG ,/, kemudian/SC satu/CDP lot/NN ditetapkan/VBT sebanyak/CDI 100/CDP lembar/NN saham/NN ./. 
+Berdasarkan/VBT pemaparan/NN tersebut/DT dapat/MD disimpulkan/VBT satuan/NN perdagangan/NN sebagai/IN satuan/NN standar/NN yang/SC mewakili/VBT jumlah/NN lembar/NN saham/NN yang/SC besar/JJ kecilnya/NNG dilegalkan/VBT oleh/IN Bursa/NN Efek/NN ./. 
+Latar/NN belakang/NN yang/SC melandasi/VBT perubahan/NN satuan/NN perdagangan/NN adalah/VBT gairah/NN pemilik/NN modal/NN untuk/IN bertransaksi/NN dengan/IN perusahaan/NN yang/SC memiliki/VBT kinerja/NN dan/CC fundamental/JJ berkualitas/VBI baik/JJ terkendala/NN dengan/IN mahalnya/VBT harga/NN saham/NN ./. 
+Kemudian/SC sebagian/CDI besar/JJ jumlah/NN lembar/NN saham/NN yang/SC kurang/RB dari/IN satuan/NN standar/NN sebelumnya/NNG (/OP 500/CDP lembar/NN atau/CC odd/VBI lot/NN )/CP sangat/RB sulit/JJ diperjualbelikan/VBT ./. 
+Alasan/NN lain/JJ dilandasi/NN oleh/IN transaksi/NN lembar/NN saham/NN yang/SC secara/IN khusus/JJ tidak/NEG memenuhi/VBT standar/NN satuan/NN (/OP di/IN bawah/NN 500/CDP lembar/NN )/CP hanya/RB dapat/MD dilakukan/VBT pada/IN pasar/NN negosiasi/NN ./. 
+Manfaat/NN atas/IN perubahan/NN satuan/NN perdagangan/NN mencakup/VBT beberapa/CDI aspek/NN penting/JJ seperti/IN ukuran/NN lot/NN size/NN yang/SC lebih/RB rendah/JJ ,/, membuat/VBT modal/NN dalam/IN berinvestasi/VBT jauh/JJ lebih/RB murah/JJ sehingga/SC merangsang/VBT partisipasi/NN masyarakat/NN khususnya/RB investor/NN ritel/NN ,/, kemudian/SC risiko/NN dalam/IN berinvestasi/VBT dapat/MD ditekan/VBT melalui/VBT diversifikasi/NN investasi/NN terhadap/IN saham-saham/NN lainnya/NNG ,/, dan/CC perdagangan/NN saham/NN di/IN bawah/NN standar/NN satuan/NN sekarang/NN dapat/MD ditransaksikan/VBT di/IN pasar/NN reguler/JJ dan/CC pasar/NN tunai/VBT serta/CC perhitungan/NN pesanan/NN dalam/IN jual-beli/VBT saham/NN menjadi/VBT lebih/RB mudah/JJ ./. 
+Satuan/NN perdagangan/NN dijadikan/VBT sebagai/IN landasan/NN utama/JJ untuk/IN meningkatkan/VBT likuiditas/NN saham/NN harian/NN dan/CC gairah/NN investor/NN untuk/IN berinvestasi/VBT dengan/IN modal/NN yang/SC rendah/JJ ./. 
+Perubahan/NN aturan/NN perdagangan/NN sesuai/RB dengan/IN ketentuan/NN Surat/NN Keputusan/NN No/NNP ./. 
+KEP-00071/CDP //GM BEI/NN //GM 11-2013/CDP dan/CC ilustrasi/NN perbandingan/NN modal/NN berdasarkan/VBT perubahan/NN lot/NN size/NN dapat/MD dilihat/VBT pada/IN Tabel/NN 2/CDP dan/CC 3/CDP dibawah/NN ./. 
+Tabel/NN 2/CDP ./. 
+Perubahan/NN Satuan/NN Perdagangan/NN Pada/IN 6/CDP Januari/NN 2014/CDP Dalam/IN Satuan/NN Lembar/NN Saham/NN Tabel/NNP 2/CDP di/IN atas/IN ,/, menyimpulkan/VBT telah/MD terjadi/VBI penurunan/NN satuan/NN perdagangan/NN sebesar/RB lima/CDP kali/NN lipat/NN dari/IN sebelumnya/NNG ,/, yaitu/SC dari/IN 1/CDP lot/NN sebesar/RB 500/CDP lembar/NN saham/NN menjadi/VBT 100/CDP lembar/NN saham/NN ./. 
+Penurunan/NN satuan/NN perdagangan/NN bertujuan/VBI untuk/IN meningkatkan/VBT efisiensi/NN penggunaan/NN modal/NN dalam/IN berinvestasi/VBT ./. 
+Tabel/NN 3/CDP ./. 
+Ilustrasi/NN Perbandingan/NN Modal/NN Setelah/SC Perubahan/NN Lot/NN Size/NN Aturan/NN Lama/JJ Aturan/NN Baru/JJ Sumber/NN :/: Data/NN Sekunder/NN Diolah/VBT ,/, 2015/CDP Ilustrasi/NN Tabel/NNP 3/CDP menunjukkan/VBT bahwa/SC pada/IN aturan/NN lama/JJ ,/, jika/SC membeli/VBT 10/CDP lot/NN saham/NN (/OP 5000/CDP lembar/NN )/CP dari/IN PT/NN ./. 
+ABCD/NN dengan/IN harga/NN per/NN lembar/NN saham/NN Rp15/NN ./. 
+000/CDP ,/, maka/SC modal/NN yang/SC dibutuhkan/VBT adalah/VBT sebesar/RB Rp75/NN ./. 
+000/CDP ./. 
+000/NN (/OP Rp15/NNP ./. 
+000/CDP x/SYM Rp5/CDP ./. 
+000/CDP )/CP ./. 
+Pada/IN aturan/NN baru/JJ ,/, jika/SC membeli/VBT 10/CDP lot/NN saham/NN (/OP 1000/CDP lembar/NN )/CP dari/IN PT/NN ./. 
+ABCD/NN dengan/IN harga/NN yang/SC sama/JJ (/OP Rp15/NNP ./. 
+000/CDP per/NN lembar/NN )/CP ,/, maka/SC modal/NN yang/SC dibutuhkan/VBT hanya/RB sebesar/JJ Rp15/NN ./. 
+000/CDP ./. 
+000/NN (/OP Rp15/NNP ./. 
+000/CDP x/SYM Rp1/CDP ./. 
+000/CDP )/CP ./. 
+Perbandingan/NN modal/NN pada/IN Tabel/NN 3/CDP menunjukkan/VBT melalui/VBT satuan/NN perdagangan/NN baru/JJ ,/, investor/NN tetap/JJ bisa/MD memperoleh/VBT jumlah/NN lot/NN yang/SC sama/JJ dengan/IN modal/NN yang/SC lebih/RB murah/JJ ,/, sehingga/SC selisih/NN modal/NN Rp60/CDP ./. 
+000/CDP ./. 
+000/CDP bisa/MD dialokasikan/VBT untuk/IN membeli/VBT saham/NN unggulan/NN lainnya/NNG atau/CC dengan/IN total/NN modal/NN Rp75/NN ./. 
+000/CDP ./. 
+000/CDP sebelumnya/RB dapat/MD digunakan/VBT untuk/IN membeli/VBT 50/CDP lot/NN saham/NN PT/NN ./. 
+ABCD/NN ./. 
+Likuiditas/NNP didefinisikan/VBT sebagai/IN kemampuan/NN untuk/IN melakukan/VBT jual/VBT beli/VBT saham/NN pada/IN saat/NN di/IN mana/WP harga/NN telah/MD disepakati/VBT sesuai/RB dengan/IN kompetisi/NN mekanisme/NN pasar/NN (/OP permintaan/NN dan/CC penawaran/NN )/CP (/OP Bennemark/FW and/FW Chen/NN ,/, 2007/CDP )/CP ./. 
+Bodie/NN et/NN al/NN ./. 
+(/OP 2011/CDP :/: 426/CDP )/CP ,/, menyatakan/VBT likuiditas/NN atas/IN aset/NN (/OP saham/NN )/CP terkait/VBT dengan/IN menjual/VBT pada/IN harga/NN pasar/NN dengan/IN mudah/JJ dan/CC dalam/IN waktu/NN yang/SC relatif/JJ singkat/JJ ./. 
+Selanjutnya/NNG dari/IN perspektif/NN berbeda/JJ likuiditas/NN dinyatakan/VBT sebagai/IN kondisi/NN suatu/DT asset/NN (/OP saham/NN )/CP untuk/IN diperjualbelikan/VBT dalam/IN jumlah/NN tertentu/JJ selama/IN jangka/NN waktu/NN transaksi/NN dengan/IN tidak/NEG menyebabkan/VBT perubahan/NN harga/NN (/OP Allen/NNP dan/CC Sudiman/NNP ,/, 2009/CDP )/CP ./. 
+Likuiditas/NN pasar/NN modal/NN dapat/MD dilihat/VBT dari/IN perhitungan/NN saham-saham/NN yang/SC aktif/JJ ditransaksikan/VBT ./. 
+Beberapa/CDI indikator/NN yang/SC dapat/MD dipakai/VBT menentukan/VBT tinggi/JJ rendahnya/NNG likuiditas/NN suatu/DT saham/NN diukur/VBI oleh/IN beberapa/CDI indikator/NN ,/, seperti/IN jumlah/NN saham/NN yang/SC diterbitkan/VBT saat/NN penawaran/NN perdana/NN ,/, frekuensi/NN transaksi/NN ,/, volume/NN transaksi/NN ,/, perubahan/NN harga/NN ,/, dan/CC parameter/NN perbandingan/NN harga/NN (/OP Wyss/NNP ,/, 2004/CDP )/CP ./. 
+Selanjutnya/CC Wyss/NNP (/OP 2004/CDP )/CP membagi/IN likuiditas/NN dalam/IN pasar/NN keuangan/NN menjadi/VBT empat/CDP bagian/NN yaitu/SC ,/, waktu/NN transaksi/NN ,/, tingkat/NN keketatan/NN ,/, kedalaman/NN pasar/NN ,/, tingkat/NN ketahanan/NN ./. 
+Waktu/NN transaksi/NN adalah/VBT selingan/NN waktu/NN antar/NN dua/CDP transaksi/NN ./. 
+Tingkat/NN keketatan/NN adalah/VBT kemampuan/NN memperoleh/VBT atau/CC mengubah/VBT saham/NN dalam/IN bentuk/NN tunai/VBT pada/IN harga/NN dan/CC waktu/NN yang/SC bersamaan/RB ./. 
+Kedalaman/NNP pasar/NN adalah/VBT kemampuan/NN memperoleh/VBT atau/CC mengubah/VBT saham/NN dalam/IN bentuk/NN tunai/VBT pada/IN jumlah/NN tertentu/JJ dengan/IN tidak/NEG memengaruhi/VBT harga/NN ./. 
+Tingkat/NN ketahanan/NN adalah/VBT kemampuan/NN memperoleh/VBT atau/CC mengubah/VBT saham/NN dalam/IN bentuk/NN tunai/VBT pada/IN jumlah/NN tertentu/JJ dengan/IN adanya/NNG sedikit/JJ perubahan/NN pada/IN harga/NN ./. 
+Aktivitas/NN volume/NN perdagangan/NN saham/NN didefinisikan/VBT sebagai/IN banyaknya/VBT lembar/NN saham/NN yang/SC aktif/JJ diperjualbelikan/VBT oleh/IN pemilik/NN modal/NN di/IN perdagangan/NN saham/NN ./. 
+Semakin/RB tinggi/JJ modal/NN yang/SC diinvestasikan/VBT pada/IN suatu/DT saham/NN oleh/IN investor/NN akan/MD menstimulasi/VBT peningkatan/NN likuiditas/NN saham/NN (/OP Satiari/NNP ,/, 2009/CDP )/CP ./. 
+Volume/NN perdagangan/NN saham/NN dapat/MD diukur/VBT melalui/VBT besarnya/NNG aktivitas/NN volume/NN perdagangan/NN (/OP AVP/NNP )/CP ./. 
+Volume/NN perdagangan/NN saham/NN merupakan/VBT kemampuan/NN mengubah/VBT saham/NN dalam/IN bentuk/NN tunai/VBT dalam/IN waktu/NN singkat/JJ pada/IN harga/NN wajar/VBT saat/NN penutupan/NN harga/NN sekuritas/NN di/IN pasar/NN saat/NN ini/DT dengan/IN jumlah/NN dan/CC kualitas/NN saham/NN menjadi/VBT syarat/NN utama/JJ ./. 
+Semakin/RB baik/JJ kualitas/NN saham/NN ,/, maka/SC dianggap/VBT dapat/MD memberikan/VBT return/JJ yang/SC baik/JJ ,/, sehingga/SC menarik/VBT investor/NN untuk/IN membelinya/NN dan/CC begitu/RB sebaliknya/SC ./. 
+Selisih/NNP lebih/RB volume/NN perdagangan/NN adalah/VBT meningkatnya/VBT level/NN jual/VBT beli/VBT saham/NN sekuritas/NN oleh/IN para/DT investor/NN di/IN bursa/NN efek/NN ./. 
+Semakin/RB tinggi/JJ volume/NN saham/NN yang/SC ditawar/VBT dan/CC diminta/VBT ,/, maka/SC semakin/RB tinggi/JJ pengaruhnya/NNG terhadap/IN kecenderungan/NN naik/VBI turunnya/NNG harga/NN saham/NN di/IN bursa/NN ./. 
+Semakin/RB meningkat/VBI volume/NN perdagangan/NN menunjukkan/VBT suatu/DT saham/NN tersebut/DT diminati/VBT oleh/IN masyarakat/NN dan/CC memengaruhi/VBT naiknya/VBI harga/NN saham/NN ./. 
+Pendekatan/NN volume/NN perdagangan/NN saham/NN dapat/MD digunakan/VBT sebagai/IN proksi/NN untuk/IN mengukur/VBT tinggi/JJ rendahnya/NNG likuiditas/NN saham/NN ./. 
+Volume/NN perdagangan/NN dapat/MD diukur/VBT melalui/VBT rasio/NN atau/CC perbandingan/NN antara/IN jumlah/NN lembar/NN saham/NN yang/SC diperdagangkan/VBT (/OP transaksi/NN )/CP dengan/IN jumlah/NN lembar/NN saham/NN yang/SC beredar/NN ./. 
+Jumlah/NN lembar/NN saham/NN yang/SC beredar/RB adalah/VBT lembar/NN saham/NN yang/SC diterbitkan/VBT oleh/IN suatu/DT perusahaan/NN pada/IN saat/NN penawaran/NN pertama/CDO ke/IN publik/NN melalui/VBT banker/NN investasi/NN di/IN pasar/NN primer/JJ ./. 
+Jumlah/NN lembar/NN saham/NN yang/SC diperdagangkan/VBT dapat/MD diartikan/VBT sebagai/IN banyaknya/VBT lembar/NN saham/NN yang/SC ditransaksikan/VBT (/OP jual/VBT dan/CC //GM atau/CC beli/VBT )/CP di/IN pasar/NN sekunder/JJ antar/NN investor/NN dalam/IN kurun/VBI waktu/NN tertentu/JJ ./. 
+Jumlah/NN saham/NN yang/SC beredar/NN dapat/MD memengaruhi/VBT tingkat/NN volume/NN perdagangan/NN ./. 
+Jika/SC volume/NN perdagangan/NN suatu/DT saham/NN dalam/IN skala/NN besar/JJ ,/, maka/SC saham/NN tersebut/DT dapat/MD dikategorikan/VBT aktif/JJ di/IN pasar/NN modal/NN (/OP Chordia/NNP et/NN al/NN ./. 
+,/, 2000/CDP )/CP ./. 
+Saham/NN yang/SC memiliki/VBT level/NN volume/NN perdagangan/NN yang/SC besar/JJ akan/MD menghasilkan/VBT tingkat/NN pengembalian/NN saham/NN yang/SC tinggi/JJ (/OP Chen/NN et/NN al/NN ./. 
+,/, 2001/CDP )/CP ./. 
+Pemilik/NN modal/NN cenderung/JJ melirik/VBT saham/NN yang/SC memberikan/VBT tingkat/NN pengembalian/NN yang/SC tinggi/JJ walaupun/CC sebanding/NN dengan/IN tingginya/NNG resiko/NN ./. 
+Fluktuasi/NN harga/NN saham/NN yang/SC cenderung/JJ meningkat/VBI mengakibatkan/VBT saham/NN tersebut/DT akan/MD semakin/RB diminati/VBT investor/NN dan/CC begitu/RB sebaliknya/SC ./. 
+Beberapa/CDI penelitian/NN sebelumnya/SC menunjukan/VBT bahwa/SC perubahan/NN aturan/NN perdagangan/NN terkait/VBT fraksi/NN dan/CC satuan/NN perdagangan/NN mampu/MD meningkatkan/VBT likuiditas/NN saham/NN ./. 
+Hasil/NN penelitian/NN Hameed/NNP dan/CC Terry/NNP (/OP 1998/CDP )/CP menunjukkan/VBT bahwa/SC penurunan/NN fraksi/NN harga/NN (/OP tick/NN size/NN )/CP saham/NN mampu/MD meningkatkan/VBT volume/NN perdagangan/NN dengan/IN syarat/NN saham/NN tersebut/DT aktif/JJ diperdagangkan/VBT ./. 
+Hasil/NN tersebut/DT senada/VBI dengan/IN penelitian/NN (/OP Satiari/NNP ,/, 2009/CDP )/CP yang/SC membuktikan/VBT bahwa/SC terdapat/VBT pengaruh/NN negatif/JJ antara/IN fraksi/NN harga/NN dengan/IN volume/NN perdagangan/NN ,/, di/IN mana/PRL semakin/RB rendah/JJ fraksi/NN harga/NN saham/NN yang/SC berlaku/VBI ,/, maka/SC volume/NN perdagangan/NN saham/NN semakin/RB tinggi/JJ ./. 
+Hal/NN ini/DT mengindikasikan/VBI adanya/NNG perbedaan/NN antara/IN sistem/NN fraksi/NN harga/NN baru/JJ pada/IN volume/NN perdagangan/NN ./. 
+Fraksi/NN lebih/RB rendah/JJ menurunkan/VBT bidask/NN spread/NN yang/SC berarti/IN biaya/NN perdagangan/NN lebih/RB murah/JJ dan/CC memberikan/VBT keuntungan/NN bagi/IN investor/NN ./. 
+Selanjutnya/CC Gerace/NN et/NN al/NN ./. 
+(/OP 2012/CDP )/CP meneliti/VBT pengaruh/NN penurunan/NN fraksi/NN harga/NN pada/IN Bursa/NN Efek/NN Hongkong/NNP ,/, hasil/NN yang/SC diperoleh/VBT menemukan/VBT bahwa/SC penurunan/NN fraksi/NN harga/NN berpengaruh/NN pada/IN peningkatan/NN likuiditas/NN pasar/NN dan/CC berkontribusi/NN pada/IN kenaikan/NN harga/NN minimum/NN di/IN pasar/NN keuangan/NN ./. 
+Hasil/NN penelitian/NN pengaruh/NN kebijakan/NN fraksi/NN harga/NN pada/IN peningkatan/NN volume/NN perdagangan/NN juga/RB didukung/VBT oleh/IN Ricker/NNP (/OP 1994/CDP )/CP ,/, Santosa/NNP (/OP 2011/CDP )/CP ,/, dan/CC Ekaputra/NNP dan/CC Asikin/NNP (/OP 2012/CDP )/CP ./. 
+Hasil/NN yang/SC sama/JJ ditemukan/VBT pada/IN penelitian/NN Susanto/NNP (/OP 2014/CDP )/CP bahwa/SC terdapat/VBT peningkatan/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN setelah/SC peristiwa/NN perubahan/NN peraturan/NN II/CDO :/: A/NN tetang/NN perdagangan/NN efek/NN yang/SC bersifat/NN ekuitas/NN pada/IN ketiga/CDO periode/NN amatan/NN ./. 
+Penelitian/NN ini/DT menunjukkan/VBT terjadinya/NNG peningkatan/NN yang/SC signifikan/JJ pada/IN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN yang/SC membuktikan/VBT perubahan/NN peraturan/NN satuan/NN perdagangan/NN dan/CC fraksi/NN harga/NN mampu/MD meningkatkan/VBT likuiditas/NN saham/NN ./. 
+Selanjutnya/CC Chandra/NNP (/OP 2015/CDP )/CP menguji/JJ tingkat/NN likuiditas/NN Bursa/NN Efek/NN Indonesia/NNP setelah/SC perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN terhadap/IN likuiditas/NN Bursa/NN Efek/NN Indonesia/NNP ./. 
+Hasil/NN yang/SC diperoleh/VBT membuktikan/VBT bahwa/SC turnover/NN mengalami/VBT kenaikan/NN yang/SC mengindikasikan/VBI pasar/NN semakin/RB likuid/JJ ./. 
+Penelitian/NN tersebut/DT juga/RB didukung/VBT oleh/IN Santosa/NNP (/OP 2011/CDP )/CP ,/, yang/SC menguji/JJ probabilitas/NN price/NN reversal/NN dan/CC aktivitas/NN perdagangan/NN intraharian/NN pada/IN fraksi/NN harga/NN Rp25/NN di/IN Bursa/NN Efek/NN Indonesia/NNP ,/, hasil/NN penelitian/NN tersebut/DT menyatakan/VBT volume/NN perdagangan/NN meningkat/VBI ./. 
+Berdasarkan/VBT uraian/NN diatas/VBT ,/, maka/SC hipotesis/NN penelitian/NN ini/DT sebagai/IN berikut/VBT :/: Ha/NN :/: Terdapat/VBT peningkatan/NN likuiditas/NN saham/NN sesudah/SC perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN pada/IN perusahaan/NN yang/SC terdaftar/VBI dalam/IN indeks/NN Kompas/NN 100/CDP ./. 
+Penelitian/NN ini/DT dilakukan/VBT pada/IN perusahaan/NN yang/SC terdaftar/VBI di/IN Bursa/NN Efek/NN Indonesia/NNP ./. 
+Selanjutnya/NNG dari/IN seluruh/CDI perusahaan/NN tersebut/DT ,/, dipilih/VBT 100/CDP perusahaan/NN yang/SC masuk/VBT dalam/IN indeks/NN Kompas/NN 100/CDP ./. 
+Jenis/NN data/NN yang/SC digunakan/VBT adalah/VBT data/NN kuantitatif/JJ ./. 
+Data/NN kuantitatif/JJ adalah/VBT data/NN yang/SC dapat/MD dinyatakan/VBT dalam/IN bentuk/NN angka/NN dan/CC merupakan/VBT data/NN yang/SC berskala/VBT ukur/NN interval/NN dan/CC rasio/NN (/OP Rahyuda/NN dkk/NN ./. 
+,/, 2004/CDP :/: 75/CDP )/CP ./. 
+Data/NN kuantitatif/JJ dalam/IN penelitian/NN ini/DT adalah/VBT aktivitas/NN volume/NN perdagangan/NN saham/NN harian/NN ./. 
+Sumber/NN data/NN yang/SC digunakan/VBT adalah/VBT data/NN sekunder/JJ ,/, yaitu/SC sumber/NN data/NN yang/SC diperoleh/VBT peneliti/NN secara/IN tidak/NEG langsung/JJ melalui/VBT media/NN perantara/NN ./. 
+Data/NN sekunder/JJ dalam/IN penelitian/NN ini/DT berasal/VBI dari/IN dan/CC Likuiditas/NNP adalah/VBT kemudahan/NN suatu/DT saham/NN untuk/IN dicairkan/VBT atau/CC diuangkan/VBT dalam/IN bentuk/NN uang/NN tunai/VBT dengan/IN mudah/JJ dan/CC dalam/IN waktu/NN yang/SC singkat/JJ melalui/VBT mekanisme/NN pasar/NN modal/NN ./. 
+Likuiditas/NNP diukur/VBT dengan/IN aktivitas/NN volume/NN perdagangan/NN saham/NN ./. 
+Perhitungan/NN aktivitas/NN volume/NN perdagangan/NN digunakan/VBT untuk/IN membandingkan/VBT likuiditas/NN saham/NN sebelum/NN dan/CC sesudah/SC perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN ./. 
+Rumusnya/NNP adalah/VBT sebagai/IN berikut/VBT :/: Aktivitas/NN volume/NN perdagangan/NN saham/NN AVPi/NNP ,/, t/NN =/NN ./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+(/OP 1/CDP )/CP Rata-rata/NN aktivitas/NN volume/NN perdagangan/NN saham/NN RAVPi/NN =/NN ./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+./. 
+(/OP 2/CDP )/CP (/OP Mulyana/NNP ,/, 2011/CDP )/CP Populasi/NN dalam/IN penelitian/NN ini/DT berjumlah/VBI 100/CDP yang/SC terdiri/VBI dari/IN seluruh/CDI perusahaan/NN yang/SC terdaftar/VBI pada/IN Indeks/NN Kompas/NN 100/CDP ./. 
+Metode/NN penentuan/NN sampel/NN yang/SC digunakan/VBT adalah/VBT nonprobability/NN sampling/NN ,/, dengan/IN menggunakan/VBT teknik/NN purposive/NN sampling/NN ./. 
+Purposive/NN sampling/NN yaitu/SC teknik/NN pengambilan/NN sampel/NN dengan/IN ditentukan/VBT oleh/IN tolak/VBT ukur/NN suatu/DT kriteria/NN atau/CC pertimbangan/NN (/OP Sugiyono/NNP ,/, 2013/CDP :/: 122/CDP )/CP ./. 
+Kriteria/NNP yang/SC digunakan/VBT adalah/VBT data/NN saham-saham/NN perusahaan/NN yang/SC masuk/VBT dalam/IN kelompok/NN harga/NN sama/JJ dengan/IN atau/CC lebih/RB dari/IN Rp200/CDP ,/, dengan/IN sampel/NN yang/SC diperoleh/VBT berjumlah/VBI 90/CDP ./. 
+Kelompok/NN harga/NN di/IN bawah/NN Rp200/CDP tidak/NEG mengalami/VBT perubahan/NN fraksi/NN sehingga/SC tidak/NEG diteliti/VBT kembali/RB dengan/IN asumsi/NN tidak/NEG akan/MD terdapat/VBT perbedaan/NN baik/JJ sebelum/SC maupun/CC sesudah/SC (/OP dapat/MD dilihat/VBT pada/IN Tabel/NNP 1/CDP )/CP ./. 
+Data/NN dikumpulkan/NN melalui/VBT observasi/NN non/NEG partisipan/NN dengan/IN cara/NN melakukan/VBT pengamatan/NN dan/CC mencatat/VBT serta/CC mempelajari/VBT uraian-uraian/NN dari/IN bukubuku/NN ,/, jurnal/NN ,/, skripsi/NN ,/, tesis/NN ,/, mengakses/NN Yahoo/NNP Finance/NNP dan/CC Bursa/NN Efek/NN Indonesia/NNP melalui/VBT dan/CC Teknik/NN analisis/NN data/NN yang/SC digunakan/VBT untuk/IN menguji/JJ hipotesis/NN adalah/VBT paired/FW sample/NN t-test/NNP (/OP dengan/IN syarat/NN data/NN berdistribusi/NN normal/NN )/CP ./. 
+Tahapan/NN analisis/NN data/NN yang/SC dilakukan/VBT adalah/VBT analisis/NN deskriptif/JJ ,/, uji/JJ normalitas/NN ,/, dan/CC paired/FW sample/FW t-test/FW dengan/IN menggunakan/VBT program/NN software/NN SPSS/NN versi/NN 13/CDP ./. 
+Statistik/NN deskriptif/JJ menyajikan/VBT uraian/NN variabel/JJ aktivitas/NN volume/NN perdagangan/NN yang/SC dilihat/VBT dari/IN nilai/NN rata-rata/NN (/OP mean/NN )/CP ,/, standar/NN deviasi/NN ,/, varian/NN ,/, nilai/NN tertinggi/JJ ,/, nilai/NN terendah/JJ ,/, penjumlahan/NN ,/, susunan/NN jarak/NN ,/, tingkat/NN keruncingan/NN dan/CC tingkat/NN kemencengan/NN (/OP Ghozali/NNP ,/, 2011/CDP :/: 19/CDP )/CP ./. 
+Analisis/NN deskriptif/JJ digunakan/VBT untuk/IN menggambarkan/VBI dan/CC mendeskripsikan/VBT variabel/JJ aktivitas/NN volume/NN perdagangan/NN yang/SC digunakan/VBT dalam/IN penelitian/NN ini/DT ./. 
+Uji/NN normalitas/NN berfungsi/VBT memastikan/VBT apakah/WP data/NN telah/MD berdistribusi/VBT normal/NN atau/CC tidak/NEG ./. 
+Beberapa/CDI penelitian/NN empiris/JJ sebelumnya/SC berasumsi/NN bahwa/SC data/NN dengan/IN jumlah/NN lebih/RB besar/JJ dari/IN 30/CDP (/OP n/NN >/NN 30/CDP )/CP ,/, dinyatakan/VBT berdistribusi/NN normal/JJ ./. 
+Data/NN dengan/IN jumlah/NN besar/JJ atau/CC melebihi/VBT 30/CDP belum/NEG tentu/JJ berdistribusi/NN normal/JJ ,/, begitu/RB juga/RB sebaliknya/SC ,/, sehingga/SC untuk/IN menghilangkan/VBT ketidakpastian/NN diperlukan/VBT uji/JJ statistik/NN normalitas/IN Kolmogorov/NN Smirnov/NN ./. 
+Kemudian/SC data/NN tersebut/DT dinyatakan/VBT memenuhi/VBT syarat/NN normalitas/NN apabila/SC sig/NN >/NN alpha/NN (/OP Ghozali/NNP ,/, 2011/CDP :/: 160/NN ;/; Sudewa/NN ,/, 2014/CDP )/CP ./. 
+Uji/NN t/NN sampel/NN berpasangan/NN merupakan/VBT uji/JJ parametrik/NN yang/SC berfungsi/VBT untuk/IN menguji/JJ hipotesis/NN sama/JJ atau/CC tidak/NEG berbeda/JJ (/OP H0/CDP )/CP antara/IN dua/CDP variabel/JJ ./. 
+Data/NN berasal/VBI dari/IN dua/CDP pengukuran/NN atau/CC dua/CDP periode/NN pengamatan/NN yang/SC berbeda/JJ yang/SC diambil/VBT dari/IN subjek/NN yang/SC dipasangkan/VBT ./. 
+Sebagai/IN catatan/NN ,/, jika/SC terdapat/VBT perbedaan/NN pada/IN hasil/NN uji/JJ statistik/NN tersebut/DT ,/, maka/SC kemudian/SC dilihat/VBT rata-rata/NN mana/WP yang/SC lebih/RB tinggi/JJ dengan/IN melihat/VBT nilai/NN mean/NN pada/IN paired/FW samples/FW statistic/FW ./. 
+Jika/SC diilustrasikan/VBT kriteria/NN pengujian/NN sebagai/IN berikut/VBT :/: Jika/SC t/NN hitung/VBT >/NN t/NN tabel/NN maka/SC H0/CDP ditolak/VBT dan/CC H1/NN diterima/VBT ./. 
+Jika/SC t/NN hitung/VBT </NN t/NN tabel/NN maka/SC H0/CDP diterima/VBT dan/CC H1/NN ditolak/VBT ./. 
+Penelitian/NN ini/DT menggunakan/VBT pengujian/NN deskriptif/JJ untuk/IN mengetahui/VBI gambaran/NN umum/JJ tentang/IN sampel/NN ./. 
+Deskripsi/NN sampel/NN berupa/VBT nilai/NN tertinggi/JJ ,/, nilai/NN terendah/JJ ,/, deviasi/NN standar/NN ,/, dan/CC rata-rata/NN ./. 
+Uraian/NN statistik/NN deskriptif/JJ dapat/MD dilihat/VBT pada/IN Tabel/NN 4/CDP di/IN bawah/NN ./. 
+Tabel/NN 4/CDP ./. 
+Hasil/NN Analisis/NN Deskriptif/NN Sumber/NN :/: Data/NN Sekunder/NN Diolah/VBT ,/, 2015/CDP Tabel/NN 4/CDP menjelaskan/VBI bahwa/SC pada/IN periode/NN sebelum/SC ,/, nilai/NN aktivitas/NN volume/NN perdagangan/NN terendah/JJ sebesar/RB 0/CDP ,/, 0000/CDP dicapai/VBT oleh/IN PT/NN Sinarmas/NNP Multiartha/NNP Tbk/NNP dan/CC nilai/NN aktivitas/NN volume/NN perdagangan/NN tertinggi/JJ dicapai/VBT oleh/IN PT/NN Petrosea/NN Tbk/NN yaitu/SC sebesar/RB 0/CDP ,/, 0024/CDP ,/, dengan/IN nilai/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebesar/RB 0/CDP ,/, 000790/CDP dan/CC deviasi/NN standar/NN sebesar/RB 0/CDP ,/, 0006178/CDP ./. 
+Pada/IN periode/NN sesudah/SC nilai/NN aktivitas/NN volume/NN perdagangan/NN terendah/JJ sebesar/RB 0/CDP ,/, 0000/CDP yang/SC dimiliki/VBT oleh/IN PT/NN Sinarmas/NNP Multiartha/NNP Tbk/NNP dan/CC nilai/NN aktivitas/NN volume/NN perdagangan/NN tertinggi/JJ dicapai/VBT oleh/IN PT/NN PP/NNP (/OP Persero/NNP )/CP Tbk/NNP sebesar/RB 0/CDP ,/, 0043/CDP ,/, dengan/IN nilai/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebesar/RB 0/CDP ,/, 001297/CDP dan/CC deviasi/NN standar/NN sebesar/RB 0/CDP ,/, 0009854/CDP ./. 
+Pada/IN kelompok/NN harga/NN di/IN bawah/NN Rp500/CDP untuk/IN periode/NN sebelum/SC ,/, nilai/NN aktivitas/NN volume/NN perdagangan/NN terendah/JJ sebesar/RB 0/CDP ,/, 0000/CDP yang/SC diperoleh/VBT PT/NN Suparma/NN Tbk/NN dan/CC nilai/NN aktivitas/NN volume/NN perdagangan/NN tertinggi/JJ dicapai/VBT oleh/IN PT/NN Bumi/NN Resources/FW Tbk/NN yaitu/SC sebesar/RB 0/CDP ,/, 0017/CDP ,/, dengan/IN nilai/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebesar/RB 0/CDP ,/, 000624/CDP dan/CC deviasi/NN standar/NN sebesar/RB 0/CDP ,/, 0004958/CDP ./. 
+Pada/IN periode/NN sesudah/SC nilai/NN aktivitas/NN volume/NN perdagangan/NN terendah/JJ sebesar/RB 0/CDP ,/, 0000/CDP yang/SC dicapai/VBT oleh/IN PT/NN Suparma/NN Tbk/NN dan/CC nilai/NN aktivitas/NN volume/NN perdagangan/NN tertinggi/JJ dicapai/VBT oleh/IN PT/NN Bumi/NN Resources/FW Tbk/NN sebesar/RB 0/CDP ,/, 0031/CDP ,/, dengan/IN nilai/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebesar/RB 0/CDP ,/, 001124/CDP dan/CC deviasi/NN standar/NN sebesar/RB 0/CDP ,/, 0009776/CDP ./. 
+Pada/IN kelompok/NN harga/NN Rp500/CDP sampai/VBI dengan/IN kurang/RB dari/IN Rp5/NN ./. 
+000/CDP pada/IN periode/NN sebelum/SC ,/, nilai/NN aktivitas/NN volume/NN perdagangan/NN terendah/JJ sebesar/RB 0/CDP ,/, 0000/CDP yang/SC dicapai/VBT oleh/IN PT/NN Sinarmas/NNP Multiartha/NNP Tbk/NNP dan/CC nilai/NN aktivitas/NN volume/NN perdagangan/NN tertinggi/JJ diperoleh/VBT oleh/IN PT/NN Petrosea/NN Tbk/NN yaitu/SC sebesar/RB 0/CDP ,/, 0024/CDP ,/, dengan/IN nilai/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebesar/RB 0/CDP ,/, 000938/CDP dan/CC deviasi/NN standar/NN sebesar/RB 0/CDP ,/, 0006788/CDP ./. 
+Pada/IN periode/NN sesudah/SC nilai/NN aktivitas/NN volume/NN perdagangan/NN terendah/JJ sebesar/RB 0/CDP ,/, 0000/CDP yang/SC dimiliki/VBT oleh/IN PT/NN Sinarmas/NNP Multiartha/NNP Tbk/NNP dan/CC nilai/NN aktivitas/NN volume/NN perdagangan/NN tertinggi/JJ didapat/VBT oleh/IN PT/NN PP/NNP (/OP Persero/NNP )/CP Tbk/NNP sebesar/RB 0/CDP ,/, 0043/CDP ,/, dengan/IN nilai/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebesar/RB 0/CDP ,/, 001456/CDP dan/CC deviasi/NN standar/NN sebesar/RB 0/CDP ,/, 0010639/CDP ./. 
+Pada/IN kelompok/NN harga/NN di/IN atas/IN Rp5/NN ./. 
+000/CDP pada/IN periode/NN sebelum/SC ,/, nilai/NN aktivitas/NN volume/NN perdagangan/NN terendah/JJ sebesar/RB 0/CDP ,/, 0000/CDP yang/SC dimiliki/VBT oleh/IN PT/NN Mayora/NN Indah/NN Tbk/NN dan/CC nilai/NN aktivitas/NN volume/NN perdagangan/NN tertinggi/JJ didapat/VBT oleh/IN PT/NN Lippo/NNP Cikarang/NNP Tbk/NNP yaitu/SC sebesar/RB 0/CDP ,/, 0016/CDP ,/, dengan/IN nilai/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebesar/RB 0/CDP ,/, 000518/CDP dan/CC deviasi/NN standar/NN sebesar/RB 0/CDP ,/, 0003743/CDP ./. 
+Pada/IN periode/NN sesudah/SC nilai/NN aktivitas/NN volume/NN perdagangan/NN terendah/JJ sebesar/RB 0/CDP ,/, 0001/CDP yang/SC diperoleh/VBT PT/NN Mayora/NN Indah/NN Tbk/NN dan/CC nilai/NN aktivitas/NN volume/NN perdagangan/NN tertinggi/JJ dicapai/VBT oleh/IN PT/NN Tambang/NN Batubara/NN Bukit/NN Asam/NNP Persero/NNP Tbk/NNP sebesar/RB 0/CDP ,/, 0023/CDP ,/, dengan/IN nilai/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebesar/RB 0/CDP ,/, 001018/CDP dan/CC deviasi/NN standar/NN sebesar/RB 0/CDP ,/, 0006635/CDP ./. 
+Sebelum/SC melakukan/VBT pengujian/NN hipotesis/NN ,/, pengujian/NN normalitas/NN dilakukan/VBT terlebih/RB dahulu/JJ sebagai/IN syarat/NN utama/JJ untuk/IN memastikan/VBT data/NN berdistribusi/NN normal/NN atau/CC tidak/NEG ./. 
+Hasil/NN uji/JJ normalitas/NN untuk/IN data/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN perusahaan/NN dapat/MD dilihat/VBT pada/IN Tabel/NN 5/CDP di/IN bawah/NN ./. 
+Tabel/NN 5/CDP ./. 
+Hasil/NN Uji/NN Normalitas/NN Rata-Rata/NN Aktivitas/NN Volume/NN Perdagangan/NN Sebelum/NN dan/CC Sesudah/SC Sumber/NN :/: Data/NN Sekunder/NN Diolah/VBT ,/, 2015/CDP Tabel/NN 5/CDP menampilkan/VBT hasil/NN uji/JJ normalitas/IN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebelum/NN dan/CC sesudah/SC penerapan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangans/NN menggunakan/VBT Kolmogorov-Smirnov/NN Test/NNP ./. 
+Hasil/NN pengujian/NN untuk/IN semua/CDI kriteria/NN menunjukkan/VBT Sig/FW ./. 
+>/NN alpha/NN ,/, maka/SC dapat/MD ditarik/VBT kesimpulan/NN bahwa/SC data/NN berdistribusi/NN normal/JJ ./. 
+Data/NN yang/SC berdistribusi/NN normal/JJ harus/MD menggunakan/VBT uji/JJ parametrik/NN yaitu/SC Paired/NNP Sample/NNP t-test/NNP ./. 
+Tabel/NN 6/CDP ./. 
+Hasil/NN Paired/NNP Sample/NNP t-test/NNP Terhadap/IN Perbedaan/NN Rata-Rata/NN Aktivitas/NN Volume/NN Perdagangan/NN Sumber/NN :/: Data/NN Sekunder/NN Diolah/VBT ,/, 2015/CDP Tabel/NN 6/CDP menampilkan/VBT hasil/NN uji/JJ beda/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN sebelum/NN dan/CC sesudah/SC untuk/IN semua/CDI kriteria/NN menunjukkan/VBT bahwa/SC Asymp/NN ./. 
+Sig/FW ./. 
+(/OP 2-tailed/FW )/CP </NN alpha/NN dan/CC t/NN hitung/VBT >/NN t/NN tabel/NN dengan/IN nilai/NN masing-masing/DT (/OP 6/CDP ,/, 814/CDP >/NN 1/CDP ,/, 986/CDP ;/; 3/CDP ,/, 150/CDP >/NN 2/CDP ,/, 119/CDP ;/; 4/CDP ,/, 721/CDP >/NN 2/CDP ,/, 005/CDP ;/; 5/CDP ,/, 441/CDP >/NN 2/CDP ,/, 100/CDP )/CP yang/SC berarti/IN bahwa/SC H0/CDP ditolak/VBT dan/CC H1/NN diterima/VBT ./. 
+Hal/NN ini/DT membuktikan/VBT bahwa/SC terdapat/VBT perbedaan/NN aktivitas/NN volume/NN perdagangan/NN yang/SC signifikan/JJ sebelum/SC dan/CC sesudah/SC penerapan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN dengan/IN periode/NN peristiwa/NN selama/IN 10/CDP hari/NN ./. 
+Selanjutnya/NNG dapat/MD dilihat/VBT pada/IN Tabel/NN rata-rata/NN (/OP mean/NN )/CP ,/, di/IN mana/WP data/NN dari/IN seluruh/CDI kriteria/NN menunjukkan/VBT rata-rata/NN sesudah/SC >/VBT rata-rata/NN sebelum/SC perubahan/NN aturan/NN perdagangan/NN ./. 
+Sehingga/SC dapat/MD ditarik/VBT kesimpulan/NN bahwa/SC rata-rata/NN aktivitas/NN volume/NN perdagangan/NN meningkat/VBI pada/IN periode/NN sesudah/SC perubahan/NN aturan/NN perdagangan/NN ./. 
+Berdasarkan/VBT hasil/NN penelitian/NN tersebut/DT ,/, diketahui/VBT bahwa/SC terdapat/VBT perbedaan/NN rata/NN rata/NN aktivitas/NN volume/NN perdagangan/NN antara/IN sebelum/NN dan/CC sesudah/SC penerapan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN ./. 
+Hasil/NN ini/DT didukung/VBT oleh/IN penelitian/NN yang/SC dilakukan/VBT oleh/IN Ricker/NNP (/OP 1994/CDP )/CP ,/, Hameed/NNP dan/CC Terry/NNP (/OP 1998/CDP )/CP ,/, Satiari/NNP (/OP 2009/CDP )/CP ,/, dan/CC Gerace/NN et/NN al/NN ./. 
+(/OP 2012/CDP )/CP yang/SC menyatakan/VBT terdapat/VBT perbedaan/NN likuiditas/NN sebelum/NN dan/CC sesudah/SC penerapan/NN fraksi/NN harga/NN baru/JJ ,/, dimana/WP likuiditas/NN semakin/RB meningkat/VBI ./. 
+Selanjutnya/CC Susanto/NNP (/OP 2014/CDP )/CP dan/CC Chandra/NNP (/OP 2015/CDP )/CP dalam/IN penelitian/NN mereka/PRP menyebutkan/VBT bahwa/SC selain/SC fraksi/NN harga/NN ,/, perubahan/NN satuan/NN perdagangan/NN juga/RB berperan/VBT meningkatkan/VBT likuiditas/NN ./. 
+Hal/NN ini/DT dikarenakan/VBT lembaga/NN Bursa/NN Efek/NN Indonesia/NNP telah/MD mendesain/NN aturan/NN baru/JJ tersebut/DT dengan/IN sangat/RB matang/VBI ./. 
+Sebelum/SC fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN diterapkan/VBT pada/IN 6/CDP Januari/NN 2014/CDP ,/, informasi/NN ini/DT sudah/MD dipublikasikan/VBT terlebih/RB dahulu/JJ pada/IN 8/CDP Oktober/NNP 2013/CDP dan/CC tingkat/NN keberhasilannya/NNG telah/MD diuji/JJ melalui/VBT percobaan/NN sistem/NN ./. 
+Hasil/NN penelitian/NN ini/DT mengindikasikan/VBI bahwa/SC teori/NN struktur/NN mikro/NN pasar/NN terbukti/NN mampu/MD mewadahi/VBT hubungan/NN antara/IN aturan/NN perdagangan/NN dengan/IN likuiditas/NN saham/NN dan/CC sekaligus/SC menyatakan/VBT bahwa/SC ekspektasi/NN lembaga/NN Bursa/NN Efek/NN Indonesia/NNP berhasil/RB tercapai/VBT ./. 
+Hal/NN ini/DT terlihat/VBT dari/IN meningkatnya/VBT likuiditas/NN saham/NN setelah/SC perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN ./. 
+Berdasarkan/VBT hasil/NN pembahasan/NN sebelumnya/NNG ,/, maka/SC dapat/MD ditarik/VBT simpulan/NN bahwa/SC terdapat/VBT perbedaan/NN rata-rata/NN aktivitas/NN volume/NN perdagangan/NN yang/SC signifikan/JJ sebelum/SC dan/CC sesudah/SC perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN dengan/IN periode/NN peristiwa/NN selama/IN 10/CDP hari/NN ./. 
+Aktivitas/NN volume/NN perdagangan/NN yang/SC semakin/RB meningkat/VBI mengindikasikan/VBI saham-saham/NN perusahaan/NN semakin/RB likuid/JJ ./. 
+Hal/NN ini/DT berarti/IN bahwa/SC lembaga/NN Bursa/NN Efek/NN Indonesia/NNP telah/MD berhasil/RB mencapai/VBT ekspektasi/NN mereka/PRP guna/SC meningkatkan/VBT likuiditas/NN saham/NN melalui/VBT perubahan/NN fraksi/NN harga/NN dan/CC satuan/NN perdagangan/NN pada/IN 6/CDP Januari/NN 2014/CDP ./. 
+Berdasarkan/VBT simpulan/NN yang/SC telah/MD disampaikan/VBT sebelumnya/NNG ,/, maka/SC saran/NN yang/SC dapat/MD diberikan/VBT bagi/IN penelitian/NN selanjutnya/NNG adalah/VBT dengan/IN menggunakan/VBT lokasi/NN penelitian/NN yang/SC berbeda/JJ seperti/IN Indeks/NN Harga/NN Saham/NN Gabungan/NN (/OP IHSG/NNP )/CP ./. 
+Indeks/NN Harga/NN Saham/NN Gabungan/NN mencakup/VBT seluruh/CDI perusahaan/NN yang/SC terdaftar/VBI dalam/IN Bursa/NN Efek/NN Indonesia/NNP ,/, sehingga/SC mampu/MD mencerminkan/VBT keseluruhan/NN karakteristik/NN populasi/NN atas/IN perubahan/NN aturan/NN perdagangan/NN ./. 
+
+
